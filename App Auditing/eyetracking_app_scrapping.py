@@ -30,6 +30,9 @@ from playwright.async_api import async_playwright
 # evemtually extract json objects to be read (use file reading capabilities)
 # to write into an excel sheet. 
 # want to be able to go into every app to find eye tracking eventually. (use other .py file!)
+# 
+# DISCLAIMER: Might have to change the file path for the files when opening/reading
+# Since I moved the files around... have a nice day
 #------------------------------------------------------------------------------------------------------------
 
 async def scrape_apps(url):

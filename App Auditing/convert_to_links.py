@@ -2,6 +2,9 @@ import json
 import csv 
 #-------------------------------------------------------------------------------
 # takes the json file specified and creates the link csv file version
+#
+# DISCLAIMER: Might have to change the file path for the files when opening/reading
+# Since I moved the files around... have a nice day
 # ------------------------------------------------------------------------------
 def link_convert():
     json_file = input("what is the json file you wish to convert?: ")

@@ -26,6 +26,10 @@ import app_search
 # Paid Example: 
 # Virtual Desktop
 # https://www.meta.com/en-gb/experiences/virtual-desktop/2017050365004772/ 
+#
+# DISCLAIMER: Might have to change the file path for the files when opening/reading
+# Since I moved the files around... have a nice day
+#
 #-----------------------------------------------------------------------------------
 async def search_links():
     # json files to add to

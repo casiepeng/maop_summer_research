@@ -8,6 +8,10 @@ from playwright.async_api import async_playwright
 # goes into an individual app and figures out if it has eyetracking. 
 # If it has eye tracking, it will then add it into the appropriate json file 
 # Else, it will leave it. 
+#
+# DISCLAIMER: Might have to change the file path for the files when opening/reading
+# Since I moved the files around... have a nice day
+#
 #---------------------------------------------------------------------------
 # link = "https://www.meta.com/en-gb/experiences/steam-link/5841245619310585/"
 async def scrape_app(url):
