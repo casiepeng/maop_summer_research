@@ -5,8 +5,7 @@ from playwright.sync_api import sync_playwright
 
 #-------------------------------------------------------------------------------
 # Goes to the specific app link and finds the privacy policy
-# Once it finds the privacy policy, it will copy all the text on the page (the entire privacy policy)
-# and it will open the privacy_policy.txt file to override and put in there
+# Once it finds the privacy policy, it will get the privacy policy link
 # That is all for this program. However, this will be tied with the other 
 # Gen AI prompting scripts that will be written to prompt using this. 
 #-------------------------------------------------------------------------------
@@ -48,13 +47,18 @@ def get_policy(url):
         page2 = context.new_page()
 
         page2.goto(href)        
-
-        policy = page2.content()
-
-        with open("./privacy_policy.txt", "w", encoding="utf-8") as f: 
-            f.write(policy)
-        
         browser.close()
+        
+        #print(href)
 
-get_policy("https://www.meta.com/en-gb/experiences/colorwifistrength/9455350957846325/")
+        return href
+        # policy = page2.content()
+
+        # with open("./privacy_policy.txt", "w", encoding="utf-8") as f: 
+        #     f.write(policy)
+        
+        # browser.close()
+
+#testing
+get_policy("https://www.meta.com/en-gb/experiences/immersed/2849273531812512/")
 
