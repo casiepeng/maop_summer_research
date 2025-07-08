@@ -1,0 +1,67 @@
+You got it! I've reviewed the VRChat Privacy Policy at `https://hello.vrchat.com/privacy` to extract information about sensors.
+
+VRChat's privacy policy details several types of sensor-derived data they collect to enable your VR experience, personalize content, and improve their services. Here's a breakdown, visualized and simplified:
+
+---
+
+### **VRChat Privacy: Sensor Data at a Glance**
+
+VRChat collects data from your VR devices and how you interact within the virtual world. Think of your VR headset and controllers as a set of sophisticated sensors, feeding information about your actions and presence to the platform.
+
+#### **1. Your Virtual Presence & Movement**
+
+This is the core of your VR experience, gathered from your headset and controllers.
+
+*   **What's Collected:**
+    *   **Head Position & Rotation:** Where your head is looking and facing in the virtual space.
+        *   **Visual:** 👁️ (Head icon with arrows showing direction)
+    *   **Controller Position & Rotation:** Where your hands (holding controllers) are located and oriented.
+        *   **Visual:** 🎮 (Controller icon with arrows showing movement)
+    *   **Locomotion Data:** How you move around the virtual environment (e.g., walking, teleporting).
+        *   **Visual:** 🚶 (Footprints or walking stick figure)
+    *   **Physical Movements & Position (Spatial Data):** Information about your play area and your movement within it, including **body tracking data** if you use external trackers.
+        *   **Visual:** 🧍 (Full body outline, perhaps with dots indicating tracking points)
+
+*   **Why It's Collected:** To render your view correctly, allow you to interact with objects and other users, and enable your virtual self to move and exist naturally within VRChat.
+
+---
+
+#### **2. Your Interactions & Communication**
+
+These sensors pick up on how you express yourself and communicate.
+
+*   **What's Collected:**
+    *   **Gaze Direction (If Available):** If your specific VR device supports eye-tracking, VRChat *may* collect where you are looking.
+        *   **Visual:** 👀➡️ (Eye icon with an arrow indicating focus)
+    *   **Hand Gestures (If Detected):** If your device can detect specific hand movements (e.g., waving, pointing), VRChat *may* collect this data.
+        *   **Visual:** 👋 (Hand icon showing different gestures)
+    *   **Audio Data:** When you use your microphone within VRChat for voice chat.
+        *   **Visual:** 🎤 (Microphone icon with sound waves)
+
+*   **Why It's Collected:** To enhance social interactions, allow for more natural communication, and enable specific in-game functionalities that rely on these inputs.
+
+---
+
+#### **3. Device-Specific Information**
+
+Not directly "sensor data," but this informs VRChat what *kind* of sensor data it *can* collect.
+
+*   **What's Collected:** Your headset model, VR system, and other device specifications.
+    *   **Visual:** ⚙️ (Gear icon next to a VR headset silhouette)
+
+*   **Why It's Collected:** To optimize the VRChat experience for your specific hardware and understand the capabilities of your device.
+
+---
+
+#### **Important Note on Sensitive Data**
+
+While VRChat states they **do not intentionally collect sensitive personal information** (like health data or biometric identifiers such as fingerprints or facial recognition data used for identification), there's a crucial caveat:
+
+*   **"Unless you explicitly provide it or use a device that transmits it as part of your normal interaction with VRChat and it is necessary for the functionality of the service."**
+    *   **Visual:** ⚠️ (Warning triangle) + 🧠 (Brain/Health icon) + 👤🔒 (Biometric ID icon)
+
+This means if your advanced VR headset has built-in sensors for things like heart rate, pupil dilation, or detailed facial expressions that are automatically transmitted as part of its normal operation for "functionality," VRChat *could* receive and process this data. They don't *seek* it, but they don't explicitly *block* it if your device sends it and it's deemed "necessary for the functionality of the service."
+
+---
+
+**In essence, VRChat collects sensor data primarily to understand your physical presence and actions within the virtual world, enabling a dynamic and interactive experience. They are generally transparent about what's collected, with a key nuance regarding highly sensitive data that might be passively transmitted by advanced VR hardware.**

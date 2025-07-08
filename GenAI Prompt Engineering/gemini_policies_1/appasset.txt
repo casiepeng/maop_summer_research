@@ -1,0 +1,89 @@
+The privacy policy for the "3D Cinema" service outlines specific details regarding the collection and use of sensor data from your device.
+
+Here's a summary of the key information, with visualizations to make it more understandable:
+
+---
+
+### 🕵️‍♀️ **What Sensor Data is Collected?**
+
+The policy explicitly states that as part of "Device Information," they collect **"sensor data (such as accelerometer, gyroscope, and compass data)."**
+
+*   **1. Accelerometer:**
+    *   `▵`
+    *   **What it does:** Measures motion, tilt, and shaking of your device.
+    *   **In 3D Cinema:** Helps understand if you're moving your device, tilting it, or if it's being jostled.
+
+*   **2. Gyroscope:**
+    *   `🔄`
+    *   **What it does:** Tracks the orientation and rotational movement of your device, understanding how it's turning in space.
+    *   **In 3D Cinema:** Crucial for head-tracking in VR/3D environments, allowing the virtual scene to react to your head movements.
+
+*   **3. Compass:**
+    *   `🧭`
+    *   **What it does:** Detects your device's heading relative to magnetic north.
+    *   **In 3D Cinema:** Provides directional awareness, ensuring the virtual environment aligns with your real-world orientation.
+
+*   **Additional (Consent-Based) Location Data:**
+    *   `📍`
+    *   While not explicitly listed as a "sensor," the policy notes that "with your consent, we may collect information about your precise or approximate location," which typically relies on GPS and other location-based sensors.
+
+---
+
+### ⚙️ **How is Sensor Data Collected?**
+
+*   **Automatically:** This sensor data is collected as part of "Information We Collect Automatically" when you use the services, falling under the "Device Information" category.
+    *   `➡️` **Your Device** `➡️` **3D Cinema Servers**
+
+---
+
+### 🎯 **Why is Sensor Data Collected? (How it's Used)**
+
+The policy states that information (including sensor data) is used for several key purposes:
+
+*   **1. To Provide & Maintain Services:**
+    *   `🎬`
+    *   **Purpose:** To deliver the core functionalities of the 3D Cinema.
+    *   **Sensor Role:** Essential for creating immersive 3D/VR experiences, enabling features like looking around by moving your device, or stabilizing the virtual view.
+
+*   **2. To Improve & Develop New Services:**
+    *   `📈`
+    *   **Purpose:** To understand user behavior and preferences, and to make the app better.
+    *   **Sensor Role:** Analyzing how users interact with the 3D environment (e.g., how they move their heads, what they look at) to refine features and develop new ones.
+
+*   **3. To Personalize Your Experience:**
+    *   `👤✨`
+    *   **Purpose:** To offer customized content and features.
+    *   **Sensor Role:** Tailoring the viewing experience or content recommendations based on how you naturally interact with the app.
+
+---
+
+### 🤝 **Is Sensor Data Shared?**
+
+Yes, the collected information (which includes sensor data) may be shared under certain circumstances:
+
+*   **With Service Providers:**
+    *   `👩‍💻↔️👨‍💻`
+    *   Third-party companies that perform services on their behalf (e.g., analytics, hosting).
+*   **With Affiliates:**
+    *   `🏢↔️🏢`
+    *   Other companies within their corporate group.
+*   **For Legal Reasons:**
+    *   `⚖️`
+    *   If required by law or to protect rights and safety.
+*   **In Business Transfers:**
+    *   `💲`
+    *   In the event of a merger, acquisition, or asset sale.
+*   **With Your Consent:**
+    *   `✅`
+    *   If you explicitly agree to it.
+
+---
+
+### 🔒 **Your Control Over Sensor Data**
+
+*   **Limited Direct Control Mentioned:**
+    *   `⚙️`
+    *   The policy states, "You may be able to adjust your device settings to control certain data collection, such as location services." However, it does *not* explicitly mention in-app controls or device settings specifically for the accelerometer, gyroscope, or compass data. This implies that the collection of these particular sensor types, being fundamental for the 3D/VR experience, is largely automatic as part of using the service.
+
+---
+This summary covers the types of sensors, how their data is collected, the purposes for which it's used, and how it might be shared, based directly on the provided privacy policy.

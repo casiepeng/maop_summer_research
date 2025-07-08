@@ -1,0 +1,98 @@
+The Voluverse Privacy Policy outlines how your Virtual Reality (VR) and Augmented Reality (AR) headset's sensors are utilized to create your immersive experiences. Here's a clear, visualized summary:
+
+---
+
+### 🎮 **Your Headset's Senses in Voluverse**
+
+Voluverse collects data from the sensors within your VR/AR headset primarily to understand your interactions and movements within their digital world. Think of your headset as a sophisticated sensor array that helps the virtual world react to you.
+
+---
+
+### **What Sensor Data Is Collected?**
+
+Voluverse uses data from your headset's core tracking capabilities:
+
+*   **🚶‍♂️ Head & Hand Tracking Data:**
+    *   **What it is:** This is the most crucial sensor data collected. It includes the **position**, **orientation**, and **movement** of your head and hands within the virtual space.
+    *   **How it's gathered:** Directly from the internal and external tracking sensors of your headset (e.g., accelerometers, gyroscopes, and cameras used for positional tracking).
+    *   **Visual Analogy:** Imagine a digital representation of your body perfectly mirroring your movements inside the game.
+        ```
+        (Your Head's Position & Gaze)  ➡️  👁️🌍
+        (Your Hand's Position & Gestures) ➡️  👋✨
+        ```
+
+*   **💡 General Interaction Data:**
+    *   **What it is:** Other sensor data related to how you engage with the Voluverse application. This helps understand your general activity.
+    *   **Visual Analogy:** Data points showing your presence and activity within the virtual environment.
+
+---
+
+### **What Sensor Data Is NOT Collected By Default?**
+
+Voluverse highlights its commitment to privacy by stating what is **not** collected automatically:
+
+*   **🚫 Raw Camera Feed Data:** The live video stream from your headset's cameras (e.g., what you see in the real world through passthrough) is **not** collected by default.
+*   **🔇 Audio Recordings:** Your microphone audio is **not** recorded or collected automatically.
+
+---
+
+### **When Sensitive Sensor Data IS Collected (and why)?**
+
+More sensitive data types (like raw camera feeds or audio) are only collected under specific conditions, and **only with your explicit permission**:
+
+*   **🗣️ Voice Chat / Microphone Use:**
+    *   **Condition:** If you choose to enable voice chat features within Voluverse.
+    *   **Purpose:** To allow you to communicate with other users.
+    *   **Visual Analogy:** A clear indicator that your microphone is active when you speak.
+        ```
+        🎙️ Live Audio Input (Only when you consent & speak)
+        ```
+*   **👁️ Passthrough Video (for AR Experiences):**
+    *   **Condition:** For Augmented Reality (AR) features that blend the virtual with your real physical environment.
+    *   **Purpose:** To enable AR experiences where virtual objects appear in your real-world view.
+    *   **Visual Analogy:** Your real room is visible, seamlessly integrated with virtual elements.
+        ```
+        📸 Real-World View -> Blended with Virtual Overlay 🌌
+        (Requires your specific permission)
+        ```
+
+---
+
+### **How Your Sensor Data Is Used & Shared**
+
+Your sensor data is primarily used to provide and enhance your experience:
+
+*   **To Power Your Immersion! 🛠️**
+    *   The head and hand tracking data is fundamental for you to move, look around, interact with objects, and see your avatar move naturally.
+    *   It helps Volucap optimize performance and enhance your overall user experience within the application.
+
+*   **Primarily Processed ON Your Device:** Much of the initial sensor data processing happens directly on your headset itself.
+
+*   **Aggregated & Anonymized (Where Possible):**
+    *   When sensor data is transmitted to Volucap, it's often combined with data from many users and stripped of personal identifiers (anonymized) where feasible.
+    *   **Visual Analogy:** Instead of tracking "John's exact movements," they might see "100 users moved through this area," providing general insights.
+        ```
+        🚶‍♂️🧍‍♀️🚶‍♂️🚶‍♀️... -> 📊 (Anonymous Trends & Usage Patterns)
+        ```
+
+*   **Sharing for Multi-User Interactions:** 🧑‍🤝‍🧑
+    *   **Crucial Exception:** In shared, multi-user experiences (e.g., social hubs, multiplayer games), your avatar's position and movements (derived from your headset tracking data) **will be visible to other users.**
+    *   **Why?** This is essential for others to see your avatar and interact with you realistically within the shared virtual space.
+    *   **Visual Analogy:** Your avatar moves live on other users' screens, just as they move on yours.
+        ```
+        You: 🚶‍♂️  ↔️  Other Users: 🧍‍♀️
+        (Your avatar's real-time position is shared for social play)
+        ```
+
+*   **Analytics & Improvement:** Aggregated sensor data helps Volucap understand user behavior patterns to continually improve the service, identify popular features, and troubleshoot issues.
+
+---
+
+### **Your Control Over Sensor Data**
+
+Voluverse emphasizes that while core tracking is necessary for the service, you maintain control over more sensitive sensor inputs:
+
+*   **Explicit Consent:** For camera feeds (passthrough) and audio (voice chat), your active and explicit consent is always required before this specific data is collected.
+*   **Data Rights:** You retain standard data protection rights, including the ability to access, correct, or request deletion of your personal data.
+
+In summary, Voluverse leverages your headset's sensors primarily for essential tracking to deliver an immersive experience, prioritizing your privacy by processing data on-device, anonymizing where possible, and requiring your explicit consent for sensitive inputs like raw camera feeds or audio recordings.

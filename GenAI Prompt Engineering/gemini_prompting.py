@@ -42,7 +42,6 @@ def first_prompt():
 
         txt_file = "placeholder"
 
-    for link in links:
         if link.startswith("https://www."):
                     txt_file1 = link.removeprefix("https://www.")
                     txt_file = txt_file1[:txt_file1.find(".")] + ".txt"
@@ -50,7 +49,8 @@ def first_prompt():
                     txt_file1 = link.removeprefix("https://")
                     txt_file = txt_file1[:txt_file1.find(".")] + ".txt"
         
-        with open("gemini_policies_1/" + txt_file, "w") as f: 
+        with open('gemini_policies_1/'+ txt_file, "w", encoding="utf-8") as f:
+             print(txt_file)
              f.write(response.text)
 
         #print(response.text)
