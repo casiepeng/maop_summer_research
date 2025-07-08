@@ -2,6 +2,7 @@
 import google.generativeai as genai
 # Used to securely store your API key
 from google import genai
+import os
 
 #-----------------------------------------------------------------------------------------------------------------
 # Takes in a list of website links to different VR application privacy policies. The goal is to find the best 
@@ -41,16 +42,16 @@ def first_prompt():
 
         txt_file = "placeholder"
 
-        if link.contains("https://www."):
-            txt_file1 = link.removeprefix("https://www.")
-            txt_file = txt_file1.removesuffix(".") + ".txt"
-            print(link)
+    for link in links:
+        if link.startswith("https://www."):
+                    txt_file1 = link.removeprefix("https://www.")
+                    txt_file = txt_file1[:txt_file1.find(".")] + ".txt"
         else:
-            txt_file1 = link.removeprefix("https://")
-            txt_file = txt_file1.removesuffix(".") + ".txt"
+                    txt_file1 = link.removeprefix("https://")
+                    txt_file = txt_file1[:txt_file1.find(".")] + ".txt"
         
-        with open(txt_file, "w") as f: 
-             f.write(response.txt)
+        with open("gemini_policies_1/" + txt_file, "w") as f: 
+             f.write(response.text)
 
         #print(response.text)
 
