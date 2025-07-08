@@ -1,13 +1,13 @@
 # imports here
+# Import the Python SDK
+import google.generativeai as genai
+# Used to securely store your API key
+import sys
+from google import genai
 
-#---------------------------------------------------------------------------------------------------
-# Prompts the google gemini flash 2.5 model 
-# Using Vertex AI (Google Cloud)
-# models/gemini-1.5-flash-001
-#
-#
-#
-#
-#
-#
-#---------------------------------------------------------------------------------------------------
+client = genai.Client()
+
+response = client.models.generate_content(
+    model="gemini-2.5-flash", contents="Explain how AI works in a few words"
+)
+print(response.text)
