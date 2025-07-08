@@ -31,17 +31,28 @@ links = {
 
 
 def first_prompt():
+    for link in links:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash", contents="Go to the link provided below that contains a privacy policy." +
+                " Summarize details regarding sensors in the privacy policy with visualizations and words to " +
+                "make it understandable without getting rid of key information." +  
+                link
+        )
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash", contents="Go to the link provided below that contains a privacy policy." +
-            " Summarize details regarding sensors in the privacy policy with visualizations and words to " +
-            "make it understandable without getting rid of key information." +  
-            "https://appasset.xverse.cn/privacy/3dcinema/privacy_policy.pdf"
-    )
-    # txt_file = 
-    # with open(txt_file, ) 
+        txt_file = "placeholder"
 
-    print(response.text)
+        if link.contains("https://www."):
+            txt_file1 = link.removeprefix("https://www.")
+            txt_file = txt_file1.removesuffix(".") + ".txt"
+            print(link)
+        else:
+            txt_file1 = link.removeprefix("https://")
+            txt_file = txt_file1.removesuffix(".") + ".txt"
+        
+        with open(txt_file, "w") as f: 
+             f.write(response.txt)
+
+        #print(response.text)
 
 def second_prompt():
     print("placeholder2")
