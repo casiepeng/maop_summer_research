@@ -1,0 +1,45 @@
+The privacy policy for the "3D Cinema" service details the collection of specific sensor-derived information, primarily "Biometric Information," to enhance your experience within the application.
+
+Here's a summary of the sensor-related details:
+
+---
+
+### **Sensor Data in the 3D Cinema Privacy Policy**
+
+The policy outlines the collection of information that directly or indirectly comes from your device's sensors, specifically categorized as **"Biometric Information."**
+
+---
+
+#### **1. What Sensor-Derived Data Is Collected?**
+
+The service collects information about how you physically interact with the virtual environment, including:
+
+*   **👁️ Gaze Direction:** Where your eyes are looking within the 3D space.
+*   **🧑‍🦱↔️ Head Movement:** How you move or orient your head (e.g., nodding, shaking, turning).
+*   **🚶‍♀️ Body Pose:** Your overall body position and movements within the interactive experience.
+
+---
+
+#### **2. Why Is This Sensor Data Collected?**
+
+The primary reasons for collecting this data are purely functional for the user experience within the 3D Cinema service:
+
+*   **✨ To Enhance Your Experience:** This data allows the application to react to your presence and actions, making the virtual environment more immersive and responsive to you.
+*   **🎮 To Provide Interactive Features:** It enables features where your movements directly control or influence elements within the 3D cinema, such as looking at a specific object to select it, or moving your head to navigate.
+
+---
+
+#### **3. What They Explicitly *DO NOT* Do With This Data:**
+
+*   **🚫 Not for Identification!** The policy clearly states: "**We do not use this information for identification purposes.**" This means your gaze, head, or body movements are used for real-time interaction within the app, not to uniquely identify you as an individual outside of that specific session or context.
+
+---
+
+#### **4. How This Data Might Be Handled (Generally):**
+
+*   **☁️ Aggregated or Anonymized:** While not explicitly detailed for sensor data, the policy mentions that aggregated or anonymized information (which cannot reasonably identify you) may be shared. Thhis suggests that raw sensor data, if kept, is processed to remove personal links before broader use or sharing.
+*   **Data Retention:** The information is retained "for as long as necessary to fulfill the purposes outlined" (i.e., to provide the service and its interactive features). This typically implies session-based or short-term retention for dynamic experiences.
+
+---
+
+**In essence, the 3D Cinema app uses your head, body, and eye movements as real-time inputs to make your virtual experience feel natural and interactive, without using this highly personal data to identify who you are.**
