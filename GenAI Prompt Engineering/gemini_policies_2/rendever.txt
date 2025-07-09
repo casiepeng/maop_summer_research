@@ -1,0 +1,16 @@
+I've reviewed the Rendever Alcove Privacy Policy provided at `https://www.rendever.com/alcove/privacy-policy`.
+
+Here's a summary of the details regarding sensors in the privacy policy:
+
+The policy states that when you use VR (Virtual Reality) or AR (Augmented Reality) devices with their services, they collect data related to your physical movements and interactions within the virtual or augmented environment. This specifically includes:
+
+*   **Head and Hand Movements:** Information about how you move your head and hands.
+*   **Gaze Direction:** Data on where you are looking.
+*   **Interactions with Virtual Objects:** Information about how you engage with items or features within the virtual world (which is derived from your physical inputs).
+
+**Purpose of this data:** This sensor-derived information is collected to make the VR/AR experience work as intended, to improve features, and for general analytics (understanding how the service is used).
+
+**Other Sensor-related Notes:**
+
+*   **Location Data:** They state they do not intentionally collect precise geolocation data (like GPS) from your device without your explicit consent. However, your general geographic region might be inferred from your IP address.
+*   **Biometric/Sensitive Data:** The policy clarifies that they do not intentionally collect sensitive personal information, such as health, genetic, or biometric data for identification purposes. However, they mention that if a future feature were to require things like voice commands or other physiological feedback, they would seek your explicit consent before collecting such data.

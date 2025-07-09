@@ -1,0 +1,7 @@
+Based on the privacy policy provided for Rendever's Alcove platform, here are the details regarding the collection of data derived from sensors:
+
+The policy states that when you use their services, they collect:
+
+*   **Voice, hand, and gaze data:** This includes information such as your voice commands, gestures, and eye movements.
+*   **Other biometric data:** This data is generated from your use of the service.
+*   **GPS location:** This information is collected as part of the technical information from your devices used to access the services.

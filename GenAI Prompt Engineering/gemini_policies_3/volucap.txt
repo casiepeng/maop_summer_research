@@ -1,0 +1,9 @@
+Based on the privacy policy provided, here are the details regarding sensors:
+
+For certain features, particularly those involving augmented reality (AR) or virtual reality (VR) experiences, Voluverse may access and process data from your device’s sensors.
+
+This sensor data includes:
+*   **Accelerometer, gyroscope, and magnetometer data** for motion tracking.
+*   **Camera data** for spatial mapping and object recognition.
+
+The primary purpose for using this sensor data is to enable and enhance your immersive experiences.

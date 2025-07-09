@@ -1,0 +1,19 @@
+The Gorilla Tag VR privacy policy details the collection of data from your VR headset and controllers, which are the primary "sensors" used in the game.
+
+Here's a summary of what they collect regarding sensors:
+
+1.  **Input and Movement Data:** They specifically collect "input and movement data from your VR headset and controllers." This includes:
+    *   **Head and Hand Position:** Where your head and hands are located in the virtual space.
+    *   **Orientation:** How your head and hands are rotated or angled.
+    *   **Velocity:** How fast your head and hands are moving.
+
+2.  **Other Necessary Sensor Data:** They also collect "other sensor data necessary for the functionality of the Game." This is a broad statement indicating they gather any other relevant sensor information the VR system provides that is required for the game to operate correctly.
+
+**Why is this data collected?**
+This sensor data is fundamental to how you play and interact in Gorilla Tag. It's primarily used to:
+*   **Operate and provide the game:** It's essential for your character's movement, interactions, and overall gameplay.
+*   **Improve and personalize your experience:** To enhance game performance and potentially tailor aspects of the game.
+*   **Understand game usage:** For analytics purposes, helping developers understand player behavior patterns and how the game is used.
+
+**Sharing of Sensor Data:**
+While the raw, highly specific sensor data isn't typically shared in an identifiable form with third parties, aggregated or anonymized usage data derived from this sensor information might be shared with analytics providers to help them understand overall player behavior trends.

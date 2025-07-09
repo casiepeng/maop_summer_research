@@ -1,0 +1,23 @@
+AuraVision's Privacy Policy details that its products rely heavily on **sensors** to collect various types of data crucial for their functionality. Here's a summary of the key sensor-related data points:
+
+1.  **Biometric Information:** This is highly personal data collected by the sensors to understand and track the user's physical presence and interactions. It includes:
+    *   **Eye-tracking and Gaze Estimation:** What the user is looking at.
+    *   **Head Pose and Facial Features:** The orientation of the user's head and characteristics of their face.
+    *   **Body Movements:** Detailed information such as skeletal data, depth data, and point cloud data, indicating the ability to track full body movements and create a 3D understanding of the user's form.
+
+2.  **Environmental Information:** Sensors also capture data about the user's physical surroundings, including:
+    *   **Spatial Mapping Data:** Details about room dimensions, the layout of the environment, and the placement of objects within it.
+    *   **Ambient Light Levels:** The lighting conditions in the user's surroundings.
+    *   **Acoustic Information:** Sounds from the user's environment, implying the use of microphones.
+
+**Purpose of Sensor Data Collection:**
+This extensive sensor data is essential for the core operation of AuraVision's products. It is used to:
+*   Enable **intuitive control and interaction** with their devices (e.g., using gaze or body movements for input).
+*   **Enhance the overall user experience**.
+*   Develop **new features** related to "spatial computing" and "human-computer interaction."
+*   Support **research and development** efforts, often utilizing anonymized or aggregated forms of this data.
+
+**Data Sharing:**
+While not exclusively for sensor data, the policy notes that your information (which includes this sensor-derived data) may be shared with third-party service providers for services like data storage and analytics, or disclosed if legally required or during business transfers.
+
+In essence, the sensors are fundamental to how AuraVision's products work, gathering highly detailed information about both the user's body and their surrounding environment to facilitate an immersive and interactive experience.

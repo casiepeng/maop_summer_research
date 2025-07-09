@@ -1,0 +1,8 @@
+Upon reviewing the privacy policy provided, it's important to note that it **does not explicitly state that it collects data directly from specific physical sensors** like GPS, accelerometers, gyroscopes, or proximity sensors.
+
+However, the policy does collect "Usage Data" which includes information that is associated with your device:
+
+*   **Unique Device Identifiers:** These are like a unique tag or serial number for your smartphone, tablet, or computer. While not raw sensor data, they uniquely identify the device you are using, which itself is equipped with various sensors.
+*   **Other Diagnostic Data:** This refers to general information about the performance, functionality, or potential issues of the service on your device. While this *could* in some very broad cases indirectly relate to how hardware (including sensors) is behaving, the policy doesn't specify the collection of raw sensor output for this purpose.
+
+In essence, the policy focuses on identifying your device and general usage/diagnostic information, rather than gathering specific data streams directly from your device's built-in sensors.

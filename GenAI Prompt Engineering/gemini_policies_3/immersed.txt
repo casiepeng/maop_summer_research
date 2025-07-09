@@ -1,0 +1,10 @@
+Based on the Immersed privacy policy, here's a summary of details regarding sensors:
+
+Immersed's products may collect certain biometric information or health data, but only with your consent and if you choose to enable specific features or integrations. This information can include:
+
+*   **Hand movements:** For example, if you choose to enable hand tracking within the products.
+*   **Head movements.**
+*   **Eye movements and gaze:** For example, if you choose to enable eye tracking within the products.
+*   **Heart rate or heart rate variability:** This is collected from third-party applications and devices that you choose to integrate with Immersed's products.
+
+This sensor-related information is used to operate, provide, and improve their products. It is not sold or shared with third parties for their own commercial purposes.

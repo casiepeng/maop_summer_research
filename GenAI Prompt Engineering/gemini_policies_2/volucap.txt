@@ -1,0 +1,12 @@
+Based on the Volucap Voluverse privacy policy, here's a summary of details regarding sensor data:
+
+The Voluverse application, designed for VR/XR (Virtual Reality/Extended Reality) devices, may collect **"Tracking Data"** which comes from your device's sensors.
+
+Here's what that means:
+
+*   **What kind of data:** This includes information about your physical movements and spatial data (details about your real-world environment).
+*   **Why it's collected:** It's used to enable specific advanced features within the Voluverse application, such as full-body tracking (allowing your whole body to be represented in the virtual space) or for mapping your physical surroundings for interactive experiences.
+*   **Where it's processed:** A key point is that this sensor-derived tracking data is **primarily processed locally on your device** for real-time use within your VR/XR experience.
+*   **When it's shared:** This data is **not sent to Volucap's servers unless you explicitly enable and consent** to specific features that require cloud-based processing of your spatial data (for example, if you contribute to building persistent virtual worlds that need your spatial information stored online).
+
+In short, sensor data from your VR/XR device (like movements and spatial awareness) is used by the Voluverse app for specific features, mostly processed on your device, and only sent to their servers if you opt-in for features that require it.

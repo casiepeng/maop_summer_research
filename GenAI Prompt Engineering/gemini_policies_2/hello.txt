@@ -1,0 +1,20 @@
+VRChat's privacy policy details several types of sensor data it collects to provide and improve its services, primarily from your VR headset, controllers, and any additional tracking accessories you might use.
+
+Here's a summary of the sensor-related details:
+
+1.  **Motion and Position Data:** VRChat collects information about your movement and position within the virtual environment. This includes:
+    *   **Head Pose:** The position and orientation of your head.
+    *   **Hand Pose:** The position and orientation of your hands (often derived from controller tracking).
+    *   **Controller Position:** The location and orientation of your VR controllers.
+    *   **Locomotion:** Data about how you move around in the virtual space.
+
+2.  **Eye Tracking Data (Opt-In):** If your VR device supports eye tracking technology, and you **choose to enable this feature within VRChat**, the policy states that eye tracking data will be collected. This is a specific opt-in feature.
+
+3.  **Body Tracking Data (Accessory Dependent):** If you use full body tracking accessories (e.g., separate trackers for your feet, hips, etc.), data from these accessories regarding your full body movement will also be collected.
+
+4.  **User Input:** The policy covers data from standard user inputs, which are often sensor-driven:
+    *   **Button Presses:** Data when you press buttons on your controllers.
+    *   **Joystick Movements:** Information about how you move joysticks or touchpads.
+    *   **Microphone Input:** Audio data from your microphone when you use voice chat or other audio features.
+
+Essentially, VRChat gathers data from your VR hardware's sensors to understand your presence, movements, and interactions within the game, with specific, optional data collected if you use advanced features like eye tracking or full body tracking.

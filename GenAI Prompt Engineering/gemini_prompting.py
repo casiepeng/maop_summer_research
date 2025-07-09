@@ -12,12 +12,16 @@ import os
 # This algorithm then puts the responses in a txt file in the gemini policies folder (./gemini_policies_x) 
 # the x signifies which prompt it took from (e.g. 1, 2, or 3) 
 # 
+# prompt 1 asks for text and visualizations summary without losing key information
+# prompt 2 only asks for a summary (is a LLM so will purely be text) without losing key information
+# prompt 3 asks the model to summarize (LLM so text) without losing key info AND without adding additional information (Hallucinations)
+#
 # This model is specifically the Gemini 2.5 flash model most commonly used for Google Gemini. 
 #-----------------------------------------------------------------------------------------------------------------
 
 client = genai.Client()
 
-links = [
+links = {
     "https://appasset.xverse.cn/privacy/3dcinema/privacy_policy.pdf",
     "https://www.gorillatagvr.com/privacy-policy",
     "https://auravision.xyz/privacy-policy",
@@ -28,15 +32,18 @@ links = [
     "https://policies.google.com/privacy",
     "https://hello.vrchat.com/privacy",
     "https://immersed.com/privacy"
-]
+}
 
 prompts = [
     "Go to the link provided below that contains a privacy policy." +
     " Summarize details regarding sensors in the privacy policy with visualizations and words to " +
     "make it understandable without getting rid of key information.",
-    "prompt 2",
-    "Prompt 3"
-      
+    "Go to the link provided below that contains a privacy policy." +
+    " Summarize details regarding sensors in the privacy policy to make it understandable without " +
+    "getting rid of key information.",
+    "Go to the link provided below that contains a privacy policy." +
+    " Summarize details regarding sensors in the privacy policy to make it understandable without " +
+    "getting rid of key information and without adding additional information."
 ]
 
 
@@ -55,10 +62,11 @@ def prompt(prompt_index):
                     txt_file1 = link.removeprefix("https://")
                     txt_file = txt_file1[:txt_file1.find(".")] + ".txt"
         
-        with open('gemini_policies_1/'+ txt_file, "w", encoding="utf-8") as f:
+        with open(f'gemini_policies_{prompt_index + 1}/'+ txt_file, "w", encoding="utf-8") as f:
              print(txt_file)
              f.write(response.text)
 
         #print(response.text)
 
-prompt(0)
+prompt_num = (int) (input("What prompt index (e.g. 0, 1, or 2) do you want to extract?: "))
+prompt(prompt_num)

@@ -1,0 +1,3 @@
+The Gorilla Tag VR privacy policy states that the game collects "Motion and Positional Data." This specifically includes data related to your VR headset's position and movement, as well as the position and movement of your controllers.
+
+This sensor-derived data is considered essential for core gameplay, enabling features like player locomotion (movement) and interaction within the game world. While this data is processed locally on your device for immediate gameplay, it may also be transmitted to their servers for analytics, to improve game performance, and to help prevent cheating.

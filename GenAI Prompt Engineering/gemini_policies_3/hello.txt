@@ -1,0 +1,3 @@
+Based on VRChat's privacy policy, details regarding sensors include:
+
+VRChat collects data related to your head and body movements, including your position and orientation in 3D space. It also collects hand and finger tracking data, which comes from your controllers or hand tracking systems. If your hardware supports it and you choose to enable the features, VRChat may also collect data for full-body tracking and eye tracking. This sensor data is gathered to enable your avatar to move and interact within VRChat.

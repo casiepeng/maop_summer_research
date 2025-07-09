@@ -1,0 +1,1 @@
+AuraVision's privacy policy indicates it may collect "biometric information." Specifically, this includes eye-tracking data, gaze data, and other physical movements, which may be considered sensitive personal information under applicable laws. While not explicitly naming "sensors," these data types are inherently collected via sensor technology.

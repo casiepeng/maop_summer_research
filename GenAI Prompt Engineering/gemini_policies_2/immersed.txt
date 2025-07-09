@@ -1,0 +1,14 @@
+Based on the Immersed privacy policy, here's a summary of the details regarding sensors:
+
+Immersed collects specific sensor data related to your interactions within their virtual environment:
+
+1.  **Physical Movements:** They gather data about your **physical movements**, explicitly mentioning **head and hand movements**.
+2.  **Gaze/Eye Movement:** They also collect information about your **gaze** or **eye movement**, specifically the **direction of your gaze**.
+
+This sensor data is used for several key purposes:
+
+*   **Service Provision:** To provide and enable their core services, allowing you to interact naturally within the virtual space.
+*   **Feature Enablement:** For eye-tracking, specifically to enable features like **foveated rendering** (optimizing visual quality where you're looking) and **virtual object interaction**.
+*   **User Experience Improvement:** To understand how users interact with the platform and to continuously enhance the overall user experience.
+
+In essence, Immersed uses data from your head, hand, and eye movements to make the VR experience functional, interactive, and to constantly improve it.
