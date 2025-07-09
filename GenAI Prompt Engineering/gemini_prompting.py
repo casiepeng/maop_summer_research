@@ -17,7 +17,7 @@ import os
 
 client = genai.Client()
 
-links = {
+links = [
     "https://appasset.xverse.cn/privacy/3dcinema/privacy_policy.pdf",
     "https://www.gorillatagvr.com/privacy-policy",
     "https://auravision.xyz/privacy-policy",
@@ -28,16 +28,22 @@ links = {
     "https://policies.google.com/privacy",
     "https://hello.vrchat.com/privacy",
     "https://immersed.com/privacy"
-}
+]
+
+prompts = [
+    "Go to the link provided below that contains a privacy policy." +
+    " Summarize details regarding sensors in the privacy policy with visualizations and words to " +
+    "make it understandable without getting rid of key information.",
+    "prompt 2",
+    "Prompt 3"
+      
+]
 
 
-def first_prompt():
+def prompt(prompt_index):
     for link in links:
         response = client.models.generate_content(
-            model="gemini-2.5-flash", contents="Go to the link provided below that contains a privacy policy." +
-                " Summarize details regarding sensors in the privacy policy with visualizations and words to " +
-                "make it understandable without getting rid of key information." +  
-                link
+            model="gemini-2.5-flash", contents= prompts[prompt_index] + link
         )
 
         txt_file = "placeholder"
@@ -55,10 +61,4 @@ def first_prompt():
 
         #print(response.text)
 
-def second_prompt():
-    print("placeholder2")
-
-def third_prompt():
-    print("placeholder3")
-
-first_prompt()
+prompt(0)

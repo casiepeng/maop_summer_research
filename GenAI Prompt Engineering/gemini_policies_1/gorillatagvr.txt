@@ -1,79 +1,66 @@
-Okay, I've reviewed the Gorilla Tag VR Privacy Policy from the link provided.
+The Gorilla Tag VR Privacy Policy details how data, including sensor-derived information, is handled when you play their game. Since Gorilla Tag is a Virtual Reality (VR) experience, it inherently relies on various sensor data to function and provide an immersive environment.
 
-Here's a summary of what the policy states regarding data that might relate to "sensors," presented with visualizations and words to make it clear:
-
----
-
-### Understanding "Sensor" Data in Gorilla Tag VR's Privacy Policy
-
-The Gorilla Tag VR privacy policy (as of my review) **does not explicitly state that it collects raw, real-time sensor data** like accelerometer readings, gyroscope data, or direct eye-tracking information from your VR headset.
-
-However, it does collect information *about your device* that implicitly relies on the existence of sensors for the device to function.
-
-Let's break down what's collected:
+Here's a summary of the details regarding sensors, explained with words and visualizations:
 
 ---
 
-#### 1. What's Collected: Your "Headset Type"
+### **Understanding Sensor Data in Gorilla Tag VR**
 
-The policy states under **"Information We Collect Automatically"** that it collects **"Device Information."** This includes:
-*   IP address
-*   Operating system
-*   Hardware
-*   Screen resolution
-*   Browser type
-*   Language
-*   **Headset type**
-*   Other information about your computer or mobile device and Internet connection.
+The privacy policy indicates that sensor data isn't directly collected by Gorilla Tag from your hardware, but rather **shared with the game by the VR platforms** you use (e.g., Meta Quest, SteamVR). This data is crucial for the game to understand your actions and movements in the virtual space.
 
-<p align="center">
-    <img src="https://via.placeholder.com/150x100?text=VR+Headset+Icon" alt="VR Headset Icon" style="vertical-align:middle; margin-right: 10px;">
-    <strong>We know:</strong> "You're using an Oculus Quest 2" or "a Valve Index."
-</p>
-<p align="center">
-    This tells them the *model* of your VR headset, not how you're moving it around in detail.
-</p>
+#### **1. What Sensor Data is Processed?**
+
+*   **Headset Movement (Your Head)**
+    *   **Description:** This refers to the data collected by the VR headset's internal sensors (gyroscopes, accelerometers, often external cameras tracking your environment) that tell the game where your head is in real space and where you're looking.
+    *   **Visualization:**
+        Imagine a VR headset.
+        Around it, you see **curved arrows** indicating how it tracks your head tilting, turning, and moving forward/backward.
+        <br>
+        `[VR Headset Icon]`
+        `  ↑ ↓ ← →`
+        `  (Tracking Head Movement)`
+*   **Controller Movement (Your Hands)**
+    *   **Description:** Data from the sensors within your VR controllers (or tracked by the headset's cameras) that captures the position, orientation, and movement of your hands and arms. This allows your virtual hands in the game to mimic your real ones.
+    *   **Visualization:**
+        Picture two VR controllers.
+        **Wavy lines** extend from them, showing the paths your hands trace as you swing, climb, or interact.
+        <br>
+        `[VR Controller L]   <==>   [VR Controller R]`
+        `   / | \                / | \`
+        ` (Tracking Hand Actions)`
+*   **Gaze Direction (What You're Looking At - If Applicable)**
+    *   **Description:** For VR platforms that support eye-tracking (though not all do, or it might not be fully utilized by Gorilla Tag), this data indicates where your virtual eyes are focused within the game environment.
+    *   **Visualization:**
+        An eye icon.
+        A **dashed line** extends from the eye, pointing directly at a specific part of the virtual world, showing what you're looking at.
+        <br>
+        `[Eye Icon] -----> [Object in Game]`
+        ` (Tracking Gaze Focus)`
+*   **Other Interaction with the Virtual Environment**
+    *   **Description:** This is a broader category encompassing how you engage with the game world based on the above sensor inputs. It includes things like hitting objects, climbing walls, or tagging other players, all of which rely on the precise tracking of your body and controller movements.
+
+#### **2. Why is This Sensor Data Collected/Processed?**
+
+The privacy policy states this information is used to:
+
+*   **Operate, Maintain, and Provide the Game:**
+    *   **Visualization:** A **gear icon** turning smoothly.
+    *   **Explanation:** Essential for the game to simply *work*. Your virtual monkey needs to move where your head moves, and your hands need to swing and grab where your controllers are. Without this data, the game is unplayable.
+*   **Improve and Personalize the Game:**
+    *   **Visualization:** A **lightbulb with an upward arrow**.
+    *   **Explanation:** By understanding aggregated player movement and interaction patterns (e.g., where players tend to get stuck, popular routes, common ways to tag), the developers can make the game better, more engaging, and fix design flaws.
+*   **Understand and Analyze Usage Trends:**
+    *   **Visualization:** A **chart or graph icon**.
+    *   **Explanation:** This helps the developers see how players engage with different parts of the game, informing future content, level design, and updates.
+
+#### **3. What Sensor Data is NOT Explicitly Mentioned (by the Game):**
+
+It's important to note what the Gorilla Tag privacy policy *does not* explicitly state it collects from sensors *directly for the game's use*:
+
+*   **Biometric Data:** No mention of heart rate, breathing patterns, or other direct biological measurements.
+*   **Real-world Location Data:** Beyond standard IP address information (which provides a general region), there's no mention of precise GPS or physical location tracking from sensors.
+*   **Direct Audio/Video Recording:** While VR headsets have microphones and cameras, the policy does not state that Gorilla Tag itself directly records audio or video from these sensors for its own purposes. Your VR platform's policy would govern this.
 
 ---
 
-#### 2. What's NOT Explicitly Collected (Raw Sensor Data)
-
-The policy **does not mention collecting granular, real-time data** from the various sensors *within* your VR headset (like accelerometers for head movement, gyroscopes for rotation, or cameras used for inside-out tracking).
-
-<p align="center">
-    <img src="https://via.placeholder.com/150x100?text=No+Live+Motion+Data" alt="No Live Motion Data" style="vertical-align:middle; margin-right: 10px;">
-    <strong>We DON'T explicitly know:</strong> "Your head just tilted 30 degrees left" or "Your hand moved 5 cm forward."
-</p>
-<p align="center">
-    The policy focuses on *device type* rather than *live motion or environmental data* from the sensors.
-</p>
-
----
-
-#### 3. Why This "Device Information" (including Headset Type) Is Collected
-
-The collected device information (including your headset type) is used for several broad purposes:
-
-<p align="center">
-    <img src="https://via.placeholder.com/100x100?text=Gear+Icon" alt="Gear Icon" style="vertical-align:middle; margin-right: 10px;">
-    <strong>To Operate & Maintain the Service:</strong>
-    <br>Making sure the game runs smoothly for your specific headset model and troubleshooting issues.
-</p>
-
-<p align="center">
-    <img src="https://via.placeholder.com/100x100?text=Magnifying+Glass" alt="Magnifying Glass" style="vertical-align:middle; margin-right: 10px;">
-    <strong>To Understand & Analyze Usage:</strong>
-    <br>For example, seeing how many users are on a particular headset type helps them optimize the game for popular devices.
-</p>
-
-<p align="center">
-    <img src="https://via.placeholder.com/100x100?text=Lightbulb+Icon" alt="Lightbulb Icon" style="vertical-align:middle; margin-right: 10px;">
-    <strong>To Create New Features & Functionality:</strong>
-    <br>Knowing the device landscape can inform development decisions for future updates or games.
-</p>
-
----
-
-#### Key Takeaway
-
-While your VR headset is packed with sensors, the Gorilla Tag VR privacy policy focuses on collecting your **headset's model or type** for operational and analytical purposes, rather than harvesting raw, real-time movement or environmental data directly from those internal sensors.
+In essence, Gorilla Tag's use of sensor data is primarily functional: it takes your physical movements and translates them into the immersive actions you perform as a gorilla in their virtual world, using information provided by your VR platform to do so.
