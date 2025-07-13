@@ -64,7 +64,7 @@ def get_developer(url):
 def non_meta_apps():
     #opens the links file to go through every app link
     meta_count = 0
-    count = 0
+    f_count = 0
     meta_apps = []
     with open('f_eye_tracking_links.csv', 'r') as file: 
             csv_reader = csv.reader(file)
@@ -74,13 +74,13 @@ def non_meta_apps():
                 if not url:
                     continue
                 print(f"line {i}")
-                count = i
+                f_count = i
                 developer = get_developer(url)
                 if ("Facebook" in developer) or ("Meta" in developer) :
                     meta_count = meta_count + 1
                     meta_apps.append(url)
                 i = i + 1    
-    new_count = 0
+    p_count = 0
     with open('p_eye_tracking_links.csv', 'r') as file: 
             csv_reader = csv.reader(file)
             i = 1
@@ -89,7 +89,7 @@ def non_meta_apps():
                 if not url:
                     continue
                 print(f"line {i}")
-                new_count = i
+                p_count = i
                 developer = get_developer(url)
                 if ("Facebook" in developer) or ("Meta" in developer) :
                     meta_count = meta_count + 1
@@ -97,9 +97,9 @@ def non_meta_apps():
 
                 i = i + 1  
 
-    print(f"There are {new_count + count} apps and there are {meta_count} meta apps")
+    print(f"There are {p_count + f_count} apps, {p_count} paid apps, {f_count} free apps, and there are {meta_count} meta apps")
     print(f"These are the apps without the meta apps: {new_count + count - meta_count}")
     print(meta_apps)
-    return new_count + count - meta_count 
+    return p_count + f_count - meta_count 
 
 non_meta_apps()
