@@ -98,7 +98,7 @@ def non_meta_apps():
                 i = i + 1  
 
     print(f"There are {p_count + f_count} apps, {p_count} paid apps, {f_count} free apps, and there are {meta_count} meta apps")
-    print(f"These are the apps without the meta apps: {new_count + count - meta_count}")
+    print(f"These are the apps without the meta apps: {p_count + p_count - meta_count}")
     print(meta_apps)
     return p_count + f_count - meta_count 
 
