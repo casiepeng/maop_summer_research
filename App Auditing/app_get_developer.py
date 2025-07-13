@@ -75,7 +75,8 @@ def non_meta_apps():
                     continue
                 print(f"line {i}")
                 count = i
-                if ("Facebook" in get_developer(url)) or ("Meta" in get_developer(url)) :
+                developer = get_developer(url)
+                if ("Facebook" in developer) or ("Meta" in developer) :
                     meta_count = meta_count + 1
                     meta_apps.append(url)
                 i = i + 1    
@@ -89,7 +90,8 @@ def non_meta_apps():
                     continue
                 print(f"line {i}")
                 new_count = i
-                if ("Facebook" in get_developer(url)) or ("Meta" in get_developer(url)) :
+                developer = get_developer(url)
+                if ("Facebook" in developer) or ("Meta" in developer) :
                     meta_count = meta_count + 1
                     meta_apps.append(url)
 
