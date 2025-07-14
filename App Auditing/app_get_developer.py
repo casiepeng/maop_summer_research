@@ -5,12 +5,12 @@ import csv
 from playwright.sync_api import sync_playwright
 
 #-------------------------------------------------------------------------------
-# Goes to the specific app link and finds the privacy policy
-# Once it finds the privacy policy, it will get the privacy policy link
-# That is all for this program. However, this will be tied with the other 
-# Gen AI prompting scripts that will be written to prompt using this. 
+# Goes through the links in the CSV files to figure out the developers. 
+# Locates which apps are from Meta/Facebook compared to the other apps. 
+# Also sorts by paid and unpaid applications. 
 #-------------------------------------------------------------------------------
 
+# Gets individual link to search
 def get_developer(url):
 
     with sync_playwright() as p:
@@ -61,6 +61,9 @@ def get_developer(url):
 #testing
 #get_developer("https://www.meta.com/en-gb/experiences/immersed/2849273531812512/")
 
+# Sorts through each link calling on the get_developer method to get the method
+# To figure out which are from Meta/Facebook and is not (3rd Party)
+# Prints out the result. 
 def non_meta_apps():
     #opens the links file to go through every app link
     meta_count = 0
