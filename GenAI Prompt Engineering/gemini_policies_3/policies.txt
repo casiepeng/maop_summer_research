@@ -1,11 +1,8 @@
-Based on Google's Privacy Policy, here's a summary of details regarding sensors:
+Based on Google's Privacy Policy, here are the details regarding sensors:
 
-Google collects information from and about the devices you use to access their services, and this includes data from **sensors**.
+Google collects information from your devices' sensors. This includes:
 
-Specifically, the policy mentions:
-*   **Accelerometers** (to detect movement and screen orientation).
-*   **Gyroscopes** (to detect rotation and orientation).
-*   **Magnetometers** (to detect compass direction).
-*   **GPS and other sensors** (used to determine precise location).
+*   **Location determination:** GPS and "other sensor data" are used to determine your location with varying degrees of accuracy.
+*   **Device information:** They also collect general information about your devices' settings and sensors.
 
-This sensor data is used to understand how you interact with your device and their services, provide features like screen rotation or location-based services, and to generally improve their offerings.
+This sensor-derived location information is used to help provide features such as driving directions, search results for nearby places, and location-based advertisements.

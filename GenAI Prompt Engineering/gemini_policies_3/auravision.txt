@@ -1,1 +1,12 @@
-AuraVision's privacy policy indicates it may collect "biometric information." Specifically, this includes eye-tracking data, gaze data, and other physical movements, which may be considered sensitive personal information under applicable laws. While not explicitly naming "sensors," these data types are inherently collected via sensor technology.
+Based on the privacy policy provided, here's a summary of details regarding sensors:
+
+The policy states that it collects **biometric information and health-related information** such as your heart rate, body temperature, ECG, EEG, blood pressure, SpO2 (blood oxygen saturation), sleep data, and step count. This data is obtained from your wearable devices or other connected devices, which rely on sensors.
+
+Additionally, the policy explicitly states it automatically collects **data from your device sensors**, including but not limited to:
+*   **Accelerometers**
+*   **Gyroscopes**
+*   **Heart rate monitors**
+*   **Temperature sensors**
+*   **SpO2 sensors**
+
+This automatically collected sensor data is used to capture details about your activity patterns, movement, and physiological responses.

@@ -1,1 +1,5 @@
-The privacy policy states that location information may be collected and stored, depending on the permissions you grant to the application. This data is used to provide service features and to improve and customize the service. You have the ability to enable or disable location services at any time through your device's settings. Other types of sensor data are not specifically mentioned.
+I have reviewed the privacy policy provided at the link.
+
+The policy details information collected automatically from your device, such as your web browser, IP address, time zone, and cookies. It also collects data on the web pages you view, referral sources, and your interaction with the site.
+
+However, after a thorough review, there are **no details or mentions** in this privacy policy regarding the collection of data from device sensors (e.g., GPS, accelerometer, gyroscope, etc.). The collected "device information" is limited to browser, IP, time zone, and cookie data, along with site usage patterns.

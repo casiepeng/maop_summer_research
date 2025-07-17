@@ -1,7 +1,8 @@
-Based on the privacy policy provided for Rendever's Alcove platform, here are the details regarding the collection of data derived from sensors:
+Based on the Rendever Alcove privacy policy:
 
-The policy states that when you use their services, they collect:
+The policy states that they collect "VR headset data" as part of the "Device Information" category. This specifically includes **sensor data related to your head movement and gaze direction**.
 
-*   **Voice, hand, and gaze data:** This includes information such as your voice commands, gestures, and eye movements.
-*   **Other biometric data:** This data is generated from your use of the service.
-*   **GPS location:** This information is collected as part of the technical information from your devices used to access the services.
+This sensor data is used to:
+*   Operate, maintain, and improve the service.
+*   Personalize your experience.
+*   Understand how you use the service and perform analytics.

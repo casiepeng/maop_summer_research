@@ -1,11 +1,10 @@
-Based on the Immerse Learn privacy policy:
+Based on the Immerselearn privacy policy, while the term "sensors" is not explicitly used, the policy details the collection of data that originates from device sensors, particularly from VR/AR headsets or other similar devices.
 
-The policy states that Immerse Learn automatically collects "sensor data" from the device you use to access their Services. This data specifically includes, but is not limited to:
+Specifically, the policy states it collects:
 
-*   Your headset’s position and orientation
-*   Gaze direction
-*   Eye tracking
-*   Hand movements
-*   Other physical inputs you make while using their immersive learning experiences.
+*   **Physical movements:** Data related to your overall physical movements within the virtual environment.
+*   **Head movements:** Information about how you move and orient your head.
+*   **Gaze direction:** Data indicating where your eyes are looking.
+*   **Hand movements:** Information regarding the position and actions of your hands.
 
-This sensor data is collected to provide and maintain their services, improve and personalize your experience, develop new features and functionalities, and for research and development purposes, including analyzing user behavior and preferences. While they may share information with service providers or for legal reasons, aggregated or anonymized data, which could include sensor data, may be used for research and analytics.
+This data is described as essential for providing the immersive experience and for improving their services. Additionally, approximate location information, derived from your IP address, is also collected.

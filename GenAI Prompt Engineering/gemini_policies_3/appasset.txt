@@ -1,3 +1,9 @@
-I apologize, but as an AI, I cannot directly access external links, browse the internet, or open and read PDF documents. My capabilities are limited to processing the text you provide to me.
+The privacy policy states that it automatically collects several types of sensor-related information:
 
-To help you, please copy and paste the relevant sections of the privacy policy (or the entire text if it's not too long) into our chat. Once you provide the text, I will be happy to summarize the details regarding sensors, ensuring I don't add or remove key information and keep it understandable.
+*   **Motion Information:** This includes data on your head, hand, and controller movements.
+*   **Eye-Tracking Data:** Details like your eye position and movements are collected.
+*   **Physical Characteristics:** This covers precise physical characteristics such as your estimated hand size and other biometric data like your estimated interpupillary distance (IPD).
+*   **Physical Environment:** Information about your physical surroundings, including the dimensions and contours of your play space.
+*   **Approximate Location Data:** This includes device location and time zone.
+
+This collected sensor-related data, particularly information about your physical environment, is used to create virtual boundaries or safe zones within the virtual environment.

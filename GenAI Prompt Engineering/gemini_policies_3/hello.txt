@@ -1,3 +1,8 @@
-Based on VRChat's privacy policy, details regarding sensors include:
+Based on the VRChat privacy policy provided, the document **does not explicitly use the term "sensors"** or detail the direct collection of raw data from device sensors (like accelerometers, gyroscopes, or specific body-tracking inputs) in its "Information We Collect Automatically" section.
 
-VRChat collects data related to your head and body movements, including your position and orientation in 3D space. It also collects hand and finger tracking data, which comes from your controllers or hand tracking systems. If your hardware supports it and you choose to enable the features, VRChat may also collect data for full-body tracking and eye tracking. This sensor data is gathered to enable your avatar to move and interact within VRChat.
+However, the policy states it collects "Gameplay and Usage Data," which includes:
+
+*   Information about your **interactions with the Services**, such as gameplay information and usage statistics.
+*   Details about the **features you use**, the content you interact with, and the time, frequency, and duration of your activities.
+
+While these actions and interactions are inherently derived from your physical movements and inputs detected by your VR hardware's sensors, the policy describes the *resulting gameplay information and usage statistics* rather than the raw sensor data itself.
