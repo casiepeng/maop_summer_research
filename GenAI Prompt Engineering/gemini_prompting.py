@@ -1,6 +1,5 @@
-# Import the Python SDK
+#imports
 import google.generativeai as genai
-# Used to securely store your API key
 from google import genai
 import os
 
