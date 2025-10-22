@@ -1,0 +1,46 @@
+ Total_Sensors  Number of Apps Audited  Average Ratings  Average User Ratings  Average Permissions  EyeTracking_Consent_Prompts
+0              1                       5         2.720000             14.400000             1.200000                     0.000000
+1              2                       8         4.237500            190.875000             2.625000                     0.375000
+2              3                       8         3.200000            250.750000             3.375000                     0.375000
+3              4                       7         3.014286            447.857143             4.714286                     0.285714
+4              5                       7         4.014286            992.428571             6.000000                     0.714286
+Descriptive Stats:
+       Total_Sensors  EyeTracking_Consent_Prompts
+count       6.000000                     6.000000
+mean        3.500000                     0.425000
+std         1.870829                     0.293031
+min         1.000000                     0.000000
+25%         2.250000                     0.308036
+50%         3.500000                     0.375000
+75%         4.750000                     0.629464
+max         6.000000                     0.800000
+Shapiro p-value (Sensors): 0.9606
+Shapiro p-value (Prompts): 0.6451
+Pearson Correlation: r = 0.899, p = 0.0148
+C:\Users\Casie Peng\AppData\Roaming\Python\Python313\site-packages\statsmodels\stats\stattools.py:74: ValueWarning: omni_normtest is not valid with less than 8 observations; 6 samples were given.        
+  warn("omni_normtest is not valid with less than 8 observations; %i "
+                                 OLS Regression Results
+=======================================================================================
+Dep. Variable:     EyeTracking_Consent_Prompts   R-squared:                       0.808
+Model:                                     OLS   Adj. R-squared:                  0.760
+Method:                          Least Squares   F-statistic:                     16.86
+Date:                         Mon, 28 Jul 2025   Prob (F-statistic):             0.0148
+Time:                                 14:50:42   Log-Likelihood:                 4.3529
+No. Observations:                            6   AIC:                            -4.706
+Df Residuals:                                4   BIC:                            -5.122
+Df Model:                                    1
+Covariance Type:                     nonrobust
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+Intercept        -0.0679      0.134     -0.508      0.638      -0.439       0.303
+Total_Sensors     0.1408      0.034      4.106      0.015       0.046       0.236
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   2.593
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.360
+Skew:                          -0.510   Prob(JB):                        0.835
+Kurtosis:                       2.368   Cond. No.                         9.36
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
