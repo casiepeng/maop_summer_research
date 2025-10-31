@@ -15,6 +15,8 @@ import os
 # prompt 2 only asks for a summary (is a LLM so will purely be text) without losing key information
 # prompt 3 asks the model to summarize (LLM so text) without losing key info AND without adding additional information (Hallucinations)
 #
+# PROMPT 4 IS THE ACTUAL POLICY!!! (in theory... hopefully gemini can get that done straightforward...)
+# 
 # This model is specifically the Gemini 2.5 flash model most commonly used for Google Gemini. 
 #-----------------------------------------------------------------------------------------------------------------
 
@@ -42,7 +44,9 @@ prompts = [
     "getting rid of key information.",
     "Go to the link provided below that contains a privacy policy." +
     " Summarize details regarding sensors in the privacy policy to make it understandable without " +
-    "getting rid of key information and without adding additional information."
+    "getting rid of key information and without adding additional information.",
+    "Go to the link and extract the privacy policy without summarizing, without adding anything, and without " +
+    " paraphrasing."
 ]
 
 
@@ -67,5 +71,6 @@ def prompt(prompt_index):
 
         #print(response.text)
 
-prompt_num = (int) (input("What prompt index (e.g. 0, 1, or 2) do you want to extract?: "))
+prompt_num = (int) (input("What prompt index (e.g. 0, 1, or 2) do you want to extract?\n " 
++ "(index 3 is no summarization and does policy extraction) : "))
 prompt(prompt_num)

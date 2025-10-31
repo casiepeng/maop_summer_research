@@ -14,6 +14,7 @@ from rouge_score import rouge_scorer
 # sequences of words (doesn't have to be continguous) that appear in both summaries. More flexibile
 # similarity measure and helps capture shared information beyond strict word-for-word matches. 
 # 
+# NOTE: ROUGE 2 is uncommon, it is best to use GPT eval and BLEU for this
 # ROUGE-S: Paraphrasing flexibility wording measurement.
 # Skip-bigram (pair of words ina sentence that allows for gaps or words in between) focus. This identifies the 
 # skip-bigram overlap between the system and reference, enabling the assessment of sentence-level structure 
@@ -25,6 +26,10 @@ from rouge_score import rouge_scorer
 
 # initialize scorer, specifies the scores I want to use
 scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+
+# get the policy 
+# get the reference summary (the LLM summary from the prompting)
+
 
 
 
