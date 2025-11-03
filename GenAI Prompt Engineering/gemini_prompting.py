@@ -1,6 +1,6 @@
 #imports
 import google.generativeai as genai
-from google import genai
+#from google import genai
 import os
 
 #-----------------------------------------------------------------------------------------------------------------
@@ -20,7 +20,9 @@ import os
 # This model is specifically the Gemini 2.5 flash model most commonly used for Google Gemini. 
 #-----------------------------------------------------------------------------------------------------------------
 
-client = genai.Client()
+#client = genai.Client()
+genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 links = {
     "https://appasset.xverse.cn/privacy/3dcinema/privacy_policy.pdf",
@@ -52,9 +54,7 @@ prompts = [
 
 def prompt(prompt_index):
     for link in links:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash", contents= prompts[prompt_index] + link
-        )
+        response = model.generate_content(prompts[prompt_index] + link)
 
         txt_file = "placeholder"
 
@@ -65,12 +65,12 @@ def prompt(prompt_index):
                     txt_file1 = link.removeprefix("https://")
                     txt_file = txt_file1[:txt_file1.find(".")] + ".txt"
         
+        
         with open(f'gemini_policies_{prompt_index + 1}/'+ txt_file, "w", encoding="utf-8") as f:
-             print(txt_file)
-             f.write(response.text)
+            print(txt_file)
+            f.write(response.text)
 
         #print(response.text)
 
-prompt_num = (int) (input("What prompt index (e.g. 0, 1, or 2) do you want to extract?\n " 
-+ "(index 3 is no summarization and does policy extraction) : "))
+prompt_num = (int) (input("What prompt index (e.g. 0, 1, 2, 3) do you want to extract?:\n "))
 prompt(prompt_num)
