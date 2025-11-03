@@ -1,0 +1,218 @@
+[Accessing the content of the provided link: https://policies.google.com/privacy]
+
+**Google Privacy Policy**
+
+**Last modified: January 5, 2022 (view archived versions)**
+
+We know you don’t want a one-size-fits-all privacy policy. That’s why we give you choices. We’ve also updated our policy with clearer explanations and made it easier to understand.
+
+**What is a privacy policy?**
+It’s a document that explains what data Google collects, why we collect it, and what we do with it. This policy is legally binding and applies to all Google services, like Gmail, Maps, YouTube, Google Play, Search, and Google Assistant.
+
+We also have a separate policy, the Google Payments Privacy Notice, for users of Google Payments. If you're using Google Workspace or Google Cloud Platform, the privacy policy is available in the Google Cloud Privacy Notice.
+
+**Privacy principles**
+Our policy is built around these core principles:
+
+*   **Transparency and control.** You should understand what data we collect and why. And you should have meaningful controls to manage it.
+*   **Responsible data stewardship.** We protect your data with robust security measures and respect your privacy.
+*   **Constantly improving.** We’re always looking for ways to improve our products and services, and our privacy policy, to better serve you.
+
+**Our commitment**
+We work hard to build products and services that protect your privacy and security. We are also committed to complying with all applicable privacy laws, like the GDPR and CCPA.
+
+**Your privacy controls**
+You have several choices regarding the data Google collects and how it's used:
+
+*   **Privacy Checkup.** This helps you review and adjust key privacy settings.
+*   **My Activity.** See and delete data saved in your Google Account.
+*   **Google Dashboard.** View an overview of the Google products you use and what data you store.
+*   **Ad Settings.** Control the information Google uses to show you ads.
+*   **Location History.** This is a setting that saves where you go with your devices.
+*   **YouTube History.** This is a setting that saves videos you watch and searches you make on YouTube.
+
+**Information Google collects**
+We collect information to provide better services to all our users – from figuring out basic things like which language you speak, to more complex things like which ads you’ll find most useful, people who matter most to you online, or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
+
+When you’re not signed in to a Google Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This helps us do things like maintain your language preferences across browsing sessions.
+
+When you’re signed in, we also collect information that we store with your Google Account, which we treat as personal information.
+
+**Information you create or provide to us**
+When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account. Even if you aren't signed in to a Google Account, you might choose to provide us with information — like an email address to receive updates about our services.
+
+We also collect the content you create, upload, or receive from others when using our services. This includes things like:
+
+*   Emails you write and receive on Gmail.
+*   Photos and videos you save on Google Photos.
+*   Docs, Sheets, and Slides you create on Google Drive.
+*   Comments you make on YouTube.
+
+**Information we collect as you use our services**
+
+**Your apps, browsers & devices**
+We collect information about the apps, browsers, and devices you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
+
+The information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.
+
+We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates. If you’re using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This includes things like your device type and carrier, crash reports, and which apps you’ve installed.
+
+**Your activity**
+We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
+
+*   Terms you search for.
+*   Videos you watch.
+*   Views and interactions with content and ads.
+*   Voice and audio information when you use audio features.
+*   Purchase activity.
+*   People with whom you communicate or share content.
+*   Activity on third-party sites and apps that use our services.
+*   Chrome browsing history you’ve synced with your Google Account.
+
+Some of this data you can manage in My Activity.
+
+If you use our voice and audio features, we may collect and process your voice and audio activity, like when you say an activation phrase (e.g., “Hey Google” or “OK Google”). Learn more.
+
+**Your location information**
+We collect information about your location when you use our services, which helps us offer features like driving directions, search results for things near you, and showing you ads based on your general location.
+
+Your location can be determined with varying degrees of accuracy by:
+
+*   GPS and other sensor data from your device.
+*   IP address.
+*   Data from nearby Wi-Fi access points, cell towers, and Bluetooth-enabled devices.
+*   Things you search for.
+
+The types of location data we collect depend in part on your device and account settings. For example, you can turn your Android device’s location on or off using the device’s settings app. You can also turn on Location History if you want to create a private map of places you go with your signed-in devices.
+
+In some circumstances, Google also collects information about you from publicly accessible sources. For example, if your name appears in a local newspaper, Google’s Search index may crawl that information and display it to other people. We may also collect information about you from trusted partners, like marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to protect against abuse. We also receive information from advertisers to provide advertising and research services.
+
+We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as browser web storage or application data caches, databases, and server logs.
+
+**Why Google collects data**
+We use data to build better services. We use the information we collect from all our services for the following purposes:
+
+**Provide our services**
+We use your information to deliver our services, like processing the terms you search for to return results or helping you share content by suggesting recipients from your contacts.
+
+**Maintain & improve our services**
+We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us. And we use your information to make improvements to our services – for example, understanding which search terms are most frequently misspelled helps us improve spell-check features.
+
+**Develop new services**
+We use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa helped us design and launch Google Photos.
+
+**Provide personalized services, including content & ads**
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results. For example, Security Checkup provides security tips adapted to how you use Google products. And, depending on your settings, Google Play may use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+
+Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see ads for sports equipment when you’re browsing a site that shows ads served by Google.
+
+*   We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
+*   We don’t share information that personally identifies you with advertisers, such as your name or email, unless you give us your permission. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
+
+**Measure performance**
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to link information about your activity from that site or app with activity from other sites or apps that use our ad services.
+
+**Communicate with you**
+We use information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing.
+
+**Protect Google, our users, and the public**
+We use information to help improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.
+
+We use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us detect abuse such as spam, malware, and illegal content. We also use algorithms to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.
+
+We may combine the information we collect among our services and across your devices for the purposes described above. For example, we use data from your Google Account to help you manage your photos in Google Photos and use information from the places you’ve visited to provide you with search results and ads that are more relevant to you. Depending on your account settings, your activity on other sites and apps may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
+
+If other users already have your email address or other identifying information, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify you. For example, this helps people identify an email from you.
+
+**Sharing your information**
+
+**When you share your information**
+Our services let you share information with other people, and you have control over how you share. For example, you can share videos publicly on YouTube or you can decide to keep your photos private in Google Photos. Remember that when you share information publicly, your content may become accessible through search engines, including Google Search.
+
+When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing an app in Play, your name and photo will appear next to your activity. We may also display your photo, name, and profile link in ads based on your activity in our services. We will respect the choices you make in your Ad Settings.
+
+**When Google shares your information**
+We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:
+
+**With your consent**
+We’ll share personal information outside of Google when we have your consent. For example, if you use Google Home to make a reservation through a booking service, we’ll get your permission before sharing your name or phone number with that service. We ask for your explicit opt-in consent to share any sensitive personal information.
+
+**With domain administrators**
+If you’re a student or work for an organization that uses Google services (like Google Workspace), your domain administrator and resellers who manage your account will have access to your Google Account. They may be able to:
+
+*   Access and retain information stored in your account, like your email.
+*   View statistics regarding your account, like how many apps you install.
+*   Change your account password.
+*   Suspend or terminate your account access.
+*   Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request.
+*   Restrict your ability to delete or export your information.
+
+Please refer to your domain administrator’s privacy policy for more information.
+
+**For external processing**
+We provide personal information to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help us with customer support.
+
+**For legal reasons**
+We will share personal information outside of Google if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
+
+*   Meet any applicable law, regulation, legal process, or enforceable governmental request. We share information about the number and type of requests we receive from governments in our Transparency Report.
+*   Enforce applicable Terms of Service, including investigation of potential violations.
+*   Detect, prevent, or otherwise address fraud, security, or technical issues.
+*   Protect against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law.
+
+We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.
+
+If Google is involved in a merger, acquisition, or sale of assets, we’ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+
+**Keeping your information secure**
+We build security into all of our services to protect your data from unauthorized access, alteration, disclosure, or destruction. We work hard to protect you and Google from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
+
+*   We use encryption to keep your data private while in transit.
+*   We offer a range of security features, like Safe Browsing, Security Checkup, and 2 Step Verification to help you protect your account.
+*   We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems.
+*   We restrict access to personal information to Google employees, contractors, and agents who need that information in order to process it for us. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+**Exporting & deleting your information**
+You can export a copy of your content in your Google Account if you want to back it up or use it with a service outside of Google. You can delete specific services from your Google Account or delete your entire Google Account.
+
+**Retaining your information**
+We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:
+
+*   Some data you can delete whenever you like, such as your saved content or search history.
+*   Other data is deleted or anonymized automatically after a set period of time, such as advertising data in server logs.
+*   We retain some data until you delete your Google Account, such as information about how often you use our services.
+*   And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
+
+When you delete data, we follow a detailed process to make sure that your data is safely and completely removed from our servers or retained only in anonymized form. We try to ensure that our services protect information from accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems.
+
+**Compliance & cooperation with regulators**
+We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.
+
+**Data transfers**
+We maintain servers around the world and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain legal frameworks relating to the transfer of data, such as the European frameworks.
+
+When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
+
+**About this policy**
+
+**When this policy applies**
+This Privacy Policy applies to all services offered by Google LLC and its affiliates, including YouTube, Android, and services offered on third-party sites, such as advertising services. This Privacy Policy doesn’t apply to services that have separate privacy policies that don’t incorporate this Privacy Policy.
+
+This Privacy Policy doesn't apply to:
+
+*   The information practices of other companies and organizations that advertise our services.
+*   Services offered by other companies or individuals, including products or sites that may include Google services, be displayed in search results, or be linked from our services.
+
+**Changes to this policy**
+We change this Privacy Policy from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We always indicate the date when the last changes were published and we offer access to archived versions for your review. If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+
+**Related privacy practices**
+
+*   Specific privacy guides for Google products
+*   Privacy Checkup
+*   Privacy Policy – Archived versions
+*   Terms of Service
+*   About Google
+*   Technologies & Principles
+
+[End of Privacy Policy text]

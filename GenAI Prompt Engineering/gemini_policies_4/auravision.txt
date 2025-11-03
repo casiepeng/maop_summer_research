@@ -1,0 +1,45 @@
+**Privacy Policy**
+
+Effective Date: October 26, 2023
+
+This Privacy Policy describes how auravision.xyz ("we," "us," or "our") collects, uses, and shares information when you use our website auravision.xyz (the "Service").
+
+**1. Information We Collect**
+
+When you visit our Service, we may collect the following types of information:
+
+*   **Log Data:** Like many website operators, we collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+*   **Cookies:** We use "cookies" to collect information. Cookies are small data files placed on your device. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+**2. How We Use Your Information**
+
+We use the collected information for various purposes:
+
+*   To provide and maintain our Service.
+*   To improve our Service.
+*   To monitor the usage of our Service.
+*   To detect, prevent, and address technical issues.
+
+**3. Sharing Your Information**
+
+We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+
+**4. Data Security**
+
+The security of your information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+
+**5. Links to Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**6. Children's Privacy**
+
+Our Service does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+**7. Changes to This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**8. Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at contact@auravision.xyz.

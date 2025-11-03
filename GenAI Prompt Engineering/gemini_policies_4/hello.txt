@@ -1,0 +1,174 @@
+**VRChat Privacy Policy**
+
+Last Updated: **December 18, 2023**
+
+This Privacy Policy describes how VRChat Inc. (“VRChat,” “we,” “us,” or “our”) collects, uses, and discloses information about you. This Privacy Policy applies to information we collect when you use our website at vrchat.com and its subdomains (the “Site”), our virtual reality application (the “App”), and our other online products and services that link to this Privacy Policy (collectively, the “Services”).
+
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the “Last Updated” date at the top of this policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.
+
+**CONTENTS**
+
+1.  **COLLECTION OF INFORMATION**
+2.  **USE OF INFORMATION**
+3.  **DISCLOSURE OF INFORMATION**
+4.  **ANALYTICS**
+5.  **TRANSFER OF INFORMATION TO THE U.S. AND OTHER COUNTRIES**
+6.  **YOUR CHOICES**
+7.  **YOUR PRIVACY RIGHTS**
+8.  **ADDITIONAL DISCLOSURES FOR INDIVIDUALS IN EUROPE**
+9.  **CONTACT US**
+
+---
+
+**1. COLLECTION OF INFORMATION**
+
+**Information You Provide to Us**
+
+We collect information you provide directly to us. For example, you provide information to us when you:
+
+*   Create an account, provide us with your username, email address, password, birthdate, and in some cases, a third-party application ID (such as a Steam ID or Oculus ID) for authentication purposes.
+*   Log in to your account.
+*   Manage your profile.
+*   Participate in community forums, events, or promotions.
+*   Contact us with questions, feedback, or to request technical support.
+*   Purchase products or services from us.
+
+**Automatically Collected Information**
+
+We automatically collect certain information about your use of the Services, including:
+
+*   **Log and Usage Information:** We collect log and usage information related to your access to and use of the Services, including the type of device you use, the features you use, the servers you connect to, access times, IP address, and browser type.
+*   **Device Information:** We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+*   **Hardware and Software Information:** We collect information regarding the hardware and software you use while accessing the Services, including information about the virtual reality headset you are using, GPU type, and other diagnostic information regarding the performance of the App.
+*   **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Services or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. For more information about how we use cookies and your choices, please see our [Cookie Policy](https://hello.vrchat.com/cookie-policy).
+*   **Information from Content:** We collect information about the content that you create and upload to the Services, including worlds, avatars, and other digital assets (e.g., file size, upload time, etc.). We do not collect or store the actual audio or visual content of your communications within VRChat (such as voice chat or webcam streams). For more information, please see “Information We Don’t Collect” below.
+
+**Information from Third Parties**
+
+We obtain information from third-party sources. For example:
+
+*   If you access the Services through a third-party platform (such as Steam or Meta/Oculus), we may collect certain account information from that platform, such as your username or ID.
+*   We may collect information from third-party services that you link to the Services (such as YouTube or Twitch).
+*   We obtain information from analytics providers and advertisers.
+
+**Information We Don’t Collect**
+
+We do not collect or store:
+
+*   The actual audio or visual content of your communications within VRChat (such as voice chat or webcam streams).
+*   Your physical location.
+*   Your real name (unless you choose to provide it to us directly).
+*   Information that can be used to identify your real-world identity, unless you choose to provide it to us directly.
+
+---
+
+**2. USE OF INFORMATION**
+
+We use the information we collect to:
+
+*   Provide, maintain, and improve our Services.
+*   Process transactions and send you related information, including confirmations and invoices.
+*   Send you technical notices, updates, security alerts, and support and administrative messages.
+*   Respond to your comments, questions, and requests, and provide customer service.
+*   Communicate with you about products, services, offers, promotions, rewards, and events offered by VRChat and others, and provide news and information we think will be of interest to you.
+*   Monitor and analyze trends, usage, and activities in connection with our Services.
+*   Detect, investigate, and prevent fraudulent transactions and other illegal activities, and protect the rights and property of VRChat and others.
+*   Personalize the Services, including by providing content or features that match your interests and preferences.
+*   Facilitate contests, sweepstakes, and promotions, and process and deliver entries and rewards.
+*   Carry out any other purpose described to you at the time the information was collected.
+
+---
+
+**3. DISCLOSURE OF INFORMATION**
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+*   **With other users:** Certain information, such as your username, avatar, and other profile information, is publicly visible to other users of the Services. Content you create and upload to the Services, such as worlds, avatars, and other digital assets, may also be visible to other users.
+*   **With vendors, consultants, and other service providers:** We share information with vendors, consultants, and other service providers who perform services on our behalf. These include providers of services such as customer support, payment processing, data analytics, web hosting, and marketing.
+*   **In response to legal process or requests:** We may disclose information about you to third parties if we believe that such disclosure is required by applicable law, rule, or regulation, or to respond to a subpoena, court order, or other legal process.
+*   **To protect our rights:** We may disclose information about you if we believe that such disclosure is necessary to protect our rights, property, or safety, or the rights, property, or safety of others. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+*   **In connection with a corporate transaction:** We may disclose or transfer information about you in connection with a merger, acquisition, sale of all or a portion of our assets, or other corporate change.
+*   **With your consent:** We may disclose information about you to third parties with your consent or at your direction.
+*   **Aggregated or de-identified information:** We may share aggregated or de-identified information that cannot reasonably be used to identify you.
+
+---
+
+**4. ANALYTICS**
+
+We use various analytics services to help us understand how users access and use our Services. These services may collect information about your IP address, device type, operating system, and other information about your use of the Services. We use this information to improve our Services and to better understand our users.
+
+---
+
+**5. TRANSFER OF INFORMATION TO THE U.S. AND OTHER COUNTRIES**
+
+VRChat is headquartered in the United States, and we have operations and service providers in the United States and other countries. Therefore, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
+
+---
+
+**6. YOUR CHOICES**
+
+**Account Information**
+
+You may update, correct, or delete information about you at any time by logging in to your online account or by emailing us at privacy@vrchat.com. Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period.
+
+**Cookies**
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information, please see our [Cookie Policy](https://hello.vrchat.com/cookie-policy).
+
+**Promotional Communications**
+
+You may opt out of receiving promotional emails from VRChat by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+---
+
+**7. YOUR PRIVACY RIGHTS**
+
+Depending on where you reside, you may have certain rights regarding your personal information, including the right to:
+
+*   **Access** your personal information.
+*   **Correct** inaccurate personal information.
+*   **Delete** your personal information.
+*   **Object** to our processing of your personal information.
+*   **Restrict** our processing of your personal information.
+*   **Receive** your personal information in a portable format.
+*   **Withdraw** your consent to our processing of your personal information.
+*   **Complain** to a data protection authority.
+
+If you would like to exercise any of these rights, please contact us at privacy@vrchat.com. We will respond to your request in accordance with applicable law.
+
+---
+
+**8. ADDITIONAL DISCLOSURES FOR INDIVIDUALS IN EUROPE**
+
+If you are located in the European Economic Area (EEA), the UK, or Switzerland, you have certain rights and protections under applicable law regarding the processing of your personal data.
+
+**Legal Basis for Processing**
+
+We process personal data for the purposes described in the “Use of Information” section above. Our legal bases for processing personal data include:
+
+*   **Necessity for the performance of a contract:** We process your personal data when it is necessary for the performance of a contract with you or to take steps at your request prior to entering into a contract. This includes processing for account creation, providing the Services, and customer support.
+*   **Necessity for compliance with a legal obligation:** We may process your personal data when it is necessary to comply with a legal obligation to which we are subject, such as for tax and accounting purposes.
+*   **Necessity for the purposes of our legitimate interests:** We may process your personal data when it is necessary for the purposes of our legitimate interests, provided that these interests are not overridden by your fundamental rights and freedoms. Our legitimate interests include improving our Services, preventing fraud, and marketing.
+*   **Consent:** We may process your personal data where you have given your explicit consent to do so. You have the right to withdraw your consent at any time.
+
+**Data Retention**
+
+We store personal data for as long as necessary to fulfill the purposes for which we collect it, unless a longer retention period is required or permitted by law. We will also retain your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Data Subject Requests**
+
+If you are located in the EEA, the UK, or Switzerland, you have the right to access, rectify, or erase your personal data, restrict or object to the processing of your personal data, and the right to data portability. You also have the right to lodge a complaint with a supervisory authority. To exercise these rights, please contact us at privacy@vrchat.com.
+
+**International Data Transfers**
+
+As noted in Section 5, VRChat is headquartered in the United States, and we have operations and service providers in the United States and other countries. Therefore, your personal data may be transferred to, or stored or accessed in, jurisdictions outside of the EEA, the UK, or Switzerland that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. Where required by law, we will implement appropriate safeguards for international data transfers, such as the European Commission’s Standard Contractual Clauses or other approved transfer mechanisms.
+
+---
+
+**9. CONTACT US**
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+VRChat Inc.  
+Attn: Privacy  
+Email: privacy@vrchat.com

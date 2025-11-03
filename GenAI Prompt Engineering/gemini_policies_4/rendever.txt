@@ -1,0 +1,60 @@
+Here is the privacy policy from the link:
+
+**Rendever Alcove Privacy Policy**
+
+*Last updated: December 14, 2022*
+
+This Privacy Policy describes Rendever Inc.’s (“**Rendever**,” “**we**,” “**us**,” or “**our**”) privacy practices for Alcove, a virtual reality application (“**Alcove**,” “**Application**” or “**VR Application**”). For our privacy practices with respect to the Rendever website, please see our website privacy policy here.
+
+This Privacy Policy describes how we collect, use, and disclose personal information from and about users of the Alcove Application. Please note that this Privacy Policy applies to the Alcove Application only. It does not apply to other products or services offered by Rendever.
+
+**Personal Information We Collect**
+
+When you use Alcove, we collect the following types of personal information:
+
+*   **Meta Quest Device and Platform Information.** We collect information about your Meta Quest headset, such as your headset ID, and information about the Meta Quest Platform that you use to access Alcove, such as your Meta Quest user ID. Please note that your Meta Quest account is provided to you by Meta, and your Meta Quest information is subject to Meta’s privacy policies and terms.
+*   **Alcove Usage Information.** We collect information about how you use Alcove, such as the features you access, the games you play, the virtual rooms you visit, your activity within the Application, how much time you spend in Alcove, and the date and time of your activities.
+*   **Customer Support Information.** If you contact our customer support team, we will collect information about your support inquiry, such as the date and time of your inquiry and the contents of your communications with us.
+
+We also collect **de-identified and aggregated data** from the categories described above. We use this data to analyze Alcove usage, and for research and development purposes. This data cannot be used to identify you individually.
+
+**How We Use Personal Information**
+
+We use the personal information we collect for the following purposes:
+
+*   **To Provide You Alcove.** We use your personal information to operate, maintain, and provide Alcove to you.
+*   **To Improve Alcove.** We use your personal information to understand your usage of Alcove, and to analyze and improve the functionality and user experience of Alcove. For example, we may use your usage data to understand which features are most popular, or to identify and fix bugs and errors.
+*   **To Provide Customer Support.** We use your personal information to respond to your inquiries, provide technical support, and resolve issues related to your use of Alcove.
+*   **For Legal and Compliance Purposes.** We may use your personal information to comply with applicable laws, regulations, and legal processes, as well as to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other third parties.
+
+**How We Disclose Personal Information**
+
+We may disclose the personal information we collect in the following circumstances:
+
+*   **With Service Providers.** We may share your personal information with third-party service providers who perform services on our behalf, such as hosting, data analytics, and customer support. These service providers are contractually obligated to protect your personal information and use it only for the purposes for which it was disclosed.
+*   **For Business Transfers.** We may disclose your personal information in connection with a merger, acquisition, sale of assets, or other corporate transaction. In such circumstances, your personal information may be transferred to the acquiring entity or successor in interest.
+*   **For Legal Reasons.** We may disclose your personal information if required to do so by law, court order, or other legal process, or if we believe in good faith that such disclosure is necessary to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other third parties.
+*   **With Your Consent.** We may disclose your personal information to third parties with your prior consent.
+
+**Data Retention**
+
+We retain personal information for as long as necessary to fulfill the purposes for which it was collected, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+**Children’s Privacy**
+
+Alcove is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete that information as soon as possible.
+
+**Security**
+
+We implement reasonable technical, administrative, and physical safeguards to protect the personal information we collect from unauthorized access, use, and disclosure. However, no data transmission or storage system can be guaranteed to be 100% secure.
+
+**Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or applicable law. We will notify you of any material changes by posting the updated Privacy Policy on this page and updating the “Last updated” date at the top of this Privacy Policy. Your continued use of Alcove after the effective date of the revised Privacy Policy constitutes your acceptance of the updated Privacy Policy.
+
+**Contact Us**
+
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
+
+Rendever Inc.
+[privacy@rendever.com](mailto:privacy@rendever.com)
