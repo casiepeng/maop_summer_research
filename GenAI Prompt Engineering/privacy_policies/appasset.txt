@@ -1,0 +1,134 @@
+Privacy Policy
+Effective: January 31, 2024
+Last Modified: February 19, 2024
+Welcome to 3DCinema.Owned by Shenzhen XVerse Information Technology Co., Ltd. ("Xverse,"
+"we," "us" or "our")，3DCinema is a powerful VR video player.
+We always respect the privacy of our online visitors and users of our products and services. Our
+Privacy Policy explains how we collect, use, share and protect the information in relation to our
+software and services (collectively, the "Service"), and your choices about the collection and use
+of your information.
+Our Policy applies to all users and others who access the Service ("Users"). Your use of (or
+request to use) 3DCinema or the Service constitutes your acceptance of this Policy.
+If you are a California resident, in order to learn more about your California Privacy Rights,
+please see the CALIFORNIA CONSUMER PRIVACY ACT (“CCPA) PRIVACY NOTICE section below.
+1.INFORMATION WE COLLECT OR HAVE ACCESS TO
+We collect the following types of information that you provide directly to us when using the
+Services.
+• Account information. When you create an account, we log your username, provided email
+address, account creation date, the Oculus account you’re using, the head-mounted
+display (HMD) you’re using, and the Internet Protocol (IP) address from which you log in.
+• Activity information. For each user session, we log a wide variety of user actions, such as the
+amount of time you spend in our app, the date, time, and reason for contacting us, and other
+communications with us.
+• Transactional information. If you purchase products or services from us , whether on our
+sites or through our applications, we will collect certain information from you, including your
+name, address, email address, and information about the product or service you are
+purchasing.
+• Log and usage data. We may log information when you access and use the Services. This
+may include your IP address, operating system, media access control (MAC) address, and
+other information about the devices and computers you use to access the Services.
+• Analytics information.We use third-party analytics tools to help us measure traffic and usage
+trends for the Service. These tools collect information sent by your device or our Service,
+including the web pages you visit, add-ons, and other information that assists us in
+improving the Service. We collect and use this analytics information with analytics
+information from other Users so that it cannot reasonably be used to identify any particular
+individual User.
+• Cookies and similar technologies.When you visit the Service, we may use cookies and similar
+technologies like pixels, web beacons, and local storage to collect information about how
+you use the Service and provide features to you.We may ask advertisers or other partners to
+serve ads or services to your devices, which may use cookies or similar technologies placed
+by us or the third party.
+2.HOW WE USE YOUR INFORMATION
+We collect and use information about you for the following purposes, including to:
+• Provide, maintain, test and improve our Services;
+• Create, manage, and authenticate your account;
+• Diagnose or fix technology problems;
+• Remember information so you will not have to re-enter it during your visit or the next time
+you visit the Service;
+• Respond to customer service requests;
+• Monitor and analyze trends, usage, and activities in connection with our Services;
+• Complete the transactions you request and perform our contractual obligations;
+• Send you technical notices, updates, security alerts and other support and administrative
+messages;
+We will not rent or sell your information to third parties without your consent.
+3.HOW WE SHARE YOUR INFORMATION
+When you use the Services, certain information may be shared with other users and the public.
+For example:
+• With your consent. We may share information about you with your consent or at your
+direction with third parties when you ask us to do so or intentionally interact with a third
+party.
+• To enforce our policies and rights. We may share information to protect the rights, property,
+and safety of Xverse, our agents, customers, and others. This includes enforcing our
+agreements, policies, and terms of use.
+• In connection with a corporate transaction. We may share personal information when we do
+a business deal, or negotiate a business deal, involving the sale or transfer of all or a part of
+our business or assets. These deals can include any merger, financing, acquisition, or
+bankruptcy transaction or proceeding.
+• With our professional advisors. We share personal information with our legal, financial,
+insurance and other advisors in connection with the corporate transactions described above
+or in connection with the management of our business and operations.
+• With law enforcement authorities and individuals involved in legal proceedings. We share
+personal information when it’s necessary for us to comply with applicable law or legal
+process, to respond to legal claims, or to protect our rights, property or personal safety of our
+users, employees, or the public.
+We do not sell your identifying information such as your name, email address, or postal address.
+4.HOW WE STORE YOUR INFORMATION
+The information collected through the Service may be stored and processed in countries where
+Xverse and its affiliates maintain teams and facilities. The information may be in a country or
+jurisdiction different from your own, which may not have the same data protection laws as your
+own country or jurisdiction. We use commercially reasonable safeguards to keep the personal
+information you provide us for the Service secure.
+By using the Service and/or contacting us, you consent to the access, use and storage of
+information as described above and elsewhere in this Privacy Policy.
+5.DELETION OF YOUR INFORMATION
+We will delete your information you provide to us after we have solved your technical problems,
+or will otherwise only keep such information to the minimum extent as required to provide and
+improve our Service to you. You can also contact us (see “How to Contact Us” below) to have
+your information deleted.
+6.RIGHTS YOU HAVE OVER YOUR DATA
+If your personal information is collected from you and where applicable laws apply, you will
+have the right to request for access, rectification, erasure, processing restriction and portability
+of your personal data, and the right to lodge a complaint with a data protection supervisory
+authority.
+7.OTHER WEB-SITES AND SERVICES
+We are not responsible for the practices employed by any websites or services linked to or from
+our Service, including the information or content contained within them. Please remember that
+when you use a link to access our Service or to go from our Service to another website or
+service, our Privacy Policy does not apply to those third-party websites or services.
+Your browsing and interaction on any third-party website or service, including those that have a
+link on our website, are subject to that third party’s own rules and policies. In addition, you
+agree that we are not responsible and do not have control over any third-party websites or
+services or their data & privacy practices.
+8.CALIFORNIA CONSUMER PRIVACY ACT (CCPA) PRIVACY NOTICE
+This Privacy Notice applies to California consumers and supplements the Privacy Statement. If
+you are a California resident, please review these additional privacy disclosures, which provide a
+summary of how we collect, use, and disclose personal information from you and also explains
+your rights under California law.
+• Identifiers: “Identifiers” covers a broad range of information, including things like name,
+email address, postal address, and IP address. We collect some CCPA personal information
+that falls into this category. We collect IP addresses when you connect to our service online.
+These sorts of identifiers are connected to your account.
+• Characteristics of protected classifications under California or federal law: This covers a
+broad range of information like race, sex, marital status, among other protected classes. We
+do not collect this information when you register for 3DCinema.
+• Commercial information: This includes information about products or services considered,
+obtained or purchased.
+• Internet or other electronic network activity information: Our services are online services, so
+we collect CCPA personal information in this category, like your interactions with our service,
+such as log data, and information about the devices and computers you use to access the
+Services.
+• Geolocation data: We do not collect precise geolocation data from GPS sensors. However, we
+do collect IP addresses from which we can determine your general location.
+CCPA provides you with the right to access, modify and delete your personal information as well
+as the right to request information about how we collect and use your personal information. We
+do not sell your personal information. We will not discriminate against you for exercising your
+privacy rights under CCPA. If you have questions or requests related to your rights under the
+CCPA, you can contact us.
+9.CHANGES TO OUR PRIVACY POLICY
+We may modify or update this Privacy Policy from time to time, so please review it periodically.
+We may provide you notice of modifications or updates if required by applicable laws. Your
+continued use of (or request to use) 3DCinema or the Service after any modification to this
+Privacy Policy will constitute your acceptance of such modification.
+10.HOW TO CONTACT US
+If you have any questions about this Privacy Policy or if you want to request deletion of any
+personal information you have provided to us, please contact us at contact@xverse.cn

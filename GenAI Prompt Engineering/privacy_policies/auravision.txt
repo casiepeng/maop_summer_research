@@ -1,0 +1,53 @@
+Privacy Policy
+Aura Vision LLC, a Wyoming LLC ("Aura Vision", "we," "us," "our," and their derivatives) provides Lab Monkey™, Fros™, Scary Baboon™, Bwah™, Steal a Monke™, and other video games, including any play test program (collectively, our "Games", or "Applications").
+
+Aura Vision LLC is a wholly owned subsidiary of Enver Studio LLC.
+
+In accordance with the policies of Meta®, our Games are available to Quest Pro, Quest 2, Quest 3, and next-gen headset users at least 10 years of age who access our Games using a Parent-Managed Account.
+
+Information We Collect
+At Aura Vision, we gather the following information when users engage with our Applications:
+
+Meta/Oculus UUID: Utilized to create accounts, save user settings, and manage other game-related data.
+Meta/Oculus Username: Used to set the in-game username.
+Meta/Oculus Friends: Used to get and display friends in game, allowing friends to play together.
+Users In game settings such as but not limited to: Items the user has equipped and in game name.
+Items users as purchased
+Your history of purchases within the game
+Amount of currency you own
+Voice chat recordings: Used for moderation purposes to maintain a safe gaming environment. These recordings are temporarily stored and analyzed by our moderation systems to detect and prevent inappropriate behavior.
+Photon
+To enable real-time multiplayer, matchmaking, and voice chat, Photon generates and stores a unique token associated with you, which remains in your possession. Photon also temporarily stores your IP address during a match and retains this data for up to one month to facilitate real-time networking. However, the data stored by Photon is pseudonymized and cannot be used to personally identify you.
+
+For more details, you can review Photon's privacy policy here.
+
+User & Parents Rights
+Parents have ongoing rights regarding their child's personal information:
+
+Review: Parents can access and review their child's personal data.
+Revocation of Consent: Parents may withdraw their consent and prevent further collection or usage of their child's information.
+Deletion: Parents can request the deletion of their child's personal data. We take appropriate steps to verify that we are communicating with the child's parents when handling these requests.
+Meta Quest User Age Group APIS
+We utilize Meta's Get Age Category API to determine the user's age group. For users under 13, we impose specific restrictions to avoid collecting personal data and implement gameplay changes to ensure privacy and safety. Users younger than 10 are not permitted to access the game. Since we do not require age data for gameplay, we do not utilize the Report Age Category API from Meta.
+
+Child Personal Information Protection
+At Aura Vision, we are dedicated to safeguarding the confidentiality, security, and integrity of children's personal information. We limit data collection to what is necessary, retain it only for as long as needed, and securely dispose of it once it is no longer required.
+
+Information Usage
+By using our Applications, you agree to the use of this information as outlined in this Privacy Policy, including our adherence to COPPA regulations.
+
+Data Security
+We employ strong security measures, including encryption and access controls, to protect the collected data from unauthorized access or exposure.
+
+Data Retention Period
+All data collected, including leaderboard information, is retained only for the time necessary to achieve the purposes stated in this privacy policy. Once the data is no longer needed, it is securely deleted.
+
+Changes to Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be communicated by posting the revised Privacy Policy on this page.
+
+You are encouraged to review this Privacy Policy periodically to stay informed of any updates. Changes become effective as soon as they are posted on this page. The "Effective Date" tag at the top will indicate when the Privacy Policy was last revised.
+
+Contact Us / Deletion of User Data
+If you wish to delete any data we have stored related to your activity, or if you have any questions regarding this Privacy Policy, please reach out to us:
+
+Contact Email: contact@auravision.xyz

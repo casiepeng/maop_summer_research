@@ -1,0 +1,215 @@
+Rendever, Inc. Privacy Policy for Alcove
+Last modified: September 9, 2024
+
+This Privacy Policy relates to information collected online by Rendever, Inc. (“Rendever” "we" or “us” or “our”) through your use of the Rendever website at Rendever.com, its subdomains alcove.rendever.com, my.rendever.com, blog.rendever.com, and any other subdomains thereof (the “Site”) and the services, features, and information available on the Site and/or any mobile applications we may offer, including the virtual reality application Alcove (together with the Site, along with associated and successor websites, applications, features, information, and services, or any part thereof, the “Service”). As used herein, “you” and “your” mean a user of the Service.
+
+You should carefully read this Privacy Policy. By using the Service, you are signifying your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you may not use the Service.
+
+To the extent that the Service is available to individuals located in the European Economic Area and the United Kingdom, this Privacy Policy sets out our practices and obligations under the General Data Protection Regulation 2016/679 (the “GDPR”).
+
+As used in this Privacy Policy, the terms “using” and “processing” information include subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+
+This Privacy Policy serves to notify you of the following:
+
+What information about me is collected?
+
+Where and when is information collected (including through the use of cookies and action tags)?
+
+Is information submitted to the Public Areas of the Service private?
+Does Rendever collect information from children under 13 years of age? What does Rendever do with the information it collects?
+When does Rendever disclose information to third parties?
+Does this Privacy Policy apply when I link to other websites or services? Is the information collected through the Service secure?
+Could my information be transferred to other countries?
+For how long will my personally identifiable information be kept?
+What choices do I have regarding my personally identifiable information? DO NOT TRACK
+How will I know if there are any changes to this Privacy Policy?
+Who do I contact if I have any privacy questions?
+
+ 
+
+WHAT INFORMATION ABOUT ME IS COLLECTED?
+
+Depending on your use of the Service, we may collect two types of information: personally identifiable information and non-personally identifiable information.
+
+Personally Identifiable Information
+
+Personally identifiable information is information that identifies you or can be used to identify or contact you. Such information may include your first and last name, address, e-mail address, and telephone number, job title, company. In addition, depending on how you use the Service, we may collect the following types of personally identifiable information:
+
+If you use the “Personalization” function of the Site, we will collect personally identifiable information about personal experiences that you may choose to share, including the name of a family member (a “Loved One”), and any other information that you choose to provide (collectively, “User Experience Information”);
+We may also collect personally identifiable information that you share with us when you call us by telephone or contact us by email or if you engage in an instant message “chat” with one of our representatives on the Site for marketing, customer support, training, and success purposes (a “Support Call”);
+We will collect any personally identifiable information that you choose to share in any public forum within the Service, including any information that you choose to post in a chat during a RendeverLive® chat or community forum post . See “WHERE AND WHEN IS INFORMATION COLLECTED (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)—Public Areas” and “IS INFORMATION SUBMITTED TO THE PUBLIC AREAS OF THE SERVICE PRIVATE?” below.
+Personally identifiable information amounts to “personal data” for the purposes of and as defined in the GDPR. All references to personally identifiable information shall be deemed to include “personal data” as defined and used in the GDPR (to the extent applicable).
+
+Non-Personally Identifiable Information
+
+Non-personally identifiable information is information, any single item of which, by itself, cannot be used to identify or contact you, including non-identifiable demographic information, browser types, unique device identifiers, device types, requested URL, referring URL, browser language, the pages you view, the date and time of your visit, domain names, and statistical data involving the use of the Service. Certain non-personally identifiable information may be considered a part of your personally identifiable information if it were combined with other identifiers in a way that enables you to be identified. However, the same pieces of information are considered non- personally identifiable information when they are taken alone or combined only with other non- personally identifiable information (for example, your viewing preferences) in a way that would not enable you to be identified.
+
+WHERE AND WHEN IS INFORMATION COLLECTED (INCLUDING THROUGH THE USE OF COOKIES AND ACTION TAGS)?
+
+We will collect personally identifiable information that you submit to us. We may also receive information (including personally identifiable information) about you from third parties providing us with analytics, or other services. We may also collect personally identifiable information about you from third-party sources such as Warmly.  We also will collect personally identifiable information that you submit to us, such as if you identify yourself to us by sending us an e-mail with questions or comments or if you contact us for customer support assistance.
+
+Registering to Use the Service and in the Course of Using the Service.
+
+You may be required to establish an account in order to take advantage of certain features of the Service. If you wish to establish an account, you will be required to provide us with information (including personally identifiable information and non-personally identifiable information) such as first and last name, e-mail address, address, telephone number. If you use the “Share Your Story” function of the Site, we will also require that you provide your address and billing and credit card information. If you use the “Request a Demo” function, we will also require your company and job title. In addition, we may obtain your personally identifiable information from you if you identify yourself to us in a Support Call. Also, we will have access to any personally identifiable information that you choose to share through the Service.
+
+Cookies and Action Tags.
+
+We may collect information passively using “cookies” and “action tags.”
+
+“Cookies” are small text files that can be placed on your computer or mobile device in order to identify your web browser and the activities of your computer on the Service and other websites. Cookies can be used to personalize your experience on the Service (such as dynamically generating content on webpages specifically designed for you), to assist you in using the Service (such as saving time by not having to reenter your name each time you use the Service), to allow us to statistically monitor how you are using the Service to help us improve our offerings, and to target certain advertisements to your browser which may be of interest to you or to determine the popularity of certain content.
+
+In addition to cookies that we may place on your computer or mobile device, cookies and similar technologies might also be placed on your computer or mobile device by third parties that we use to provide us with analytics and other services. In the course of providing these services, such service providers could place or recognize unique cookies on your browser, and associate these activities with other personal information they or others have about you, including by association with your email, work, or home address. We, or service providers on our behalf, may then send communications and marketing to these email or addresses. 
+
+You do not have to accept cookies to use the Service. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar. However, if you reject cookies, certain features or resources of the Service may not work properly or at all and you may experience some loss of convenience.
+
+For the avoidance of doubt, the Service uses third-party service platforms (including to help analyze how users use the Service). These third-party service platforms may place cookies on your computer or mobile device. If you would like to disable "third party" cookies, you may be able to turn them off by going to the third party's website.
+
+Here are links to the main third-party platforms we use:
+
+https://www.google.com/policies/privacy/
+
+https://www.zoominfo.com/cookies-settings
+
+https://app.retention.com/optout
+
+ 
+
+"Action tags," also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of the Service, or e-mail sent on our behalf, may contain action tags.
+
+By using cookies and action tags together, we are able to gain valuable information to improve the Service and measure the effectiveness of our marketing campaigns. Information collected from some cookies placed on the website (including cookies placed by third-party vendors such as Google and its partners) is used to deliver advertisements to Rendever site visitors when such visitors are visiting the Site and other websites, including Facebook and LinkedIn. You may opt out of a third-party vendor's use of cookies for personalized advertising by visiting www.aboutads.info.
+
+Finally, you should be aware that other third parties may use their own cookies or action tags when you click on a link to their websites or services on or from the Service. This Privacy Policy does not govern the use of cookies or action tags or the use of your information by such third- party websites or services.
+
+Log Files.
+
+We also collect information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Service. This information may be used to analyze trends, to administer the Service, to monitor the use of the Service, and to gather general demographic information. We may link this information to personally identifiable information for these and other purposes such as personalizing your experience on the Service and evaluating the Service in general.
+
+Public Areas.
+
+The Service features certain public forums (the "Public Areas") where Service users can share or post information that can be viewed by other users. Public Areas within the Service include a “RendeverLive™” feature in which users can join livestream sessions hosted by us and during which users may post comments or “chats” which are visible to all Site users, including users from any Facility who may be participating in such livestream session. For the avoidance of doubt, any comments you post during a livestream session will be publicly available to all site users, including users from any Facility who may be participating in the livestream session. The Site also includes a blog in which Site users may post comments that are publicly available. In addition, the Service may include a public forum in which Facility staff member users may post information visible to staff members users from the same and other Facilities. These Public Areas are open to the public and should not be considered private. We cannot prevent information included within a Public Area from being used in a manner inconsistent with this Privacy Policy, the law, or your personal privacy. We are not responsible for the results of such postings or for the accuracy of any information contained in those postings.
+
+Any information you share in a Public Area (including personally identifiable information) is by design open to the public and is not private. You should think carefully before posting any information in any Public Area. What you post can be seen, disclosed to or collected by others and may be used by others in ways we cannot regulate or predict. As with any public forum on any website, the information you post may also show up in third- party search engines like Google, Yahoo, MSN, and Bing. If you mistakenly post personally identifiable information in a Public Area you can send us an e-mail to request that we remove it by contacting us at privacy@Rendever.com. You should understand that in some cases, we may not be able to remove your information.
+
+IS INFORMATION SUBMITTED TO THE PUBLIC AREAS OF THE SERVICE PRIVATE?
+
+No. Any information shared in the Public Areas of the Service is available to the public, including to all users. Such information is not protected or treated as confidential, can be used in any manner, and is not subject to this Privacy Policy. If you wish to keep any information private or proprietary, do not submit it to the Public Areas of the Service. NOTWITHSTANDING THE FOREGOING, WE HAVE NO RESPONSIBILITY OR LIABILITY IF A USER’S INFORMATION OR IDENTITY IS MISUSED OR STOLEN, OR IF A USER SUFFERS HARM AS A RESULT OF VOLUNTARY DISCLOSURES.
+
+DOES RENDEVER COLLECT INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE?
+
+We are committed to protecting the privacy of children. The Service is not designed for or directed to children under the age of 13. We do not collect personally identifiable information from any person we actually know is under the age of 13. In fact, as currently operated, any person under the age of majority in his or her respective jurisdiction may not use the Service. By using the Service, you represent that you are at least the age of majority in your respective jurisdiction.
+
+WHAT DOES RENDEVER DO WITH THE INFORMATION IT COLLECTS?
+
+We will only use your personally identifiable information to the extent that the law allows us to do so. We use the information collected to provide the Service to you, to help us understand who uses the Service, to contact you regarding referrals, for internal operations such as operating and improving the Service, to contact you for customer service and billing purposes, and, unless you opt out, so that we and third parties can contact you about products and services that may be of interest to you. 
+
+Unless you opt out, we and third parties may subsequently send you electronic newsletters, contact you about the Service, products, services, information and news that may be of interest to you, and provide you with targeted feedback. If you no longer desire to receive these communications, we will provide you with the option to change your preferences in each communication we send to you. You may also inform us by email to: privacy@Rendever.com.
+
+Pursuant to the GDPR, legal bases for our processing your personally identifiable information may include (without limitation):
+
+(a) where you have given consent to the processing, which consent may be withdrawn at any time without affecting the lawfulness of processing based on consent prior to withdrawal;
+
+(b) where it is necessary to perform the contract we have entered into or are about to enter into with you (whether in relation to the provision of the Service or otherwise); and/or
+
+(c) where it is necessary for the purposes of our legitimate interests (or those of a third party) in providing the Service and your interests or fundamental rights and freedoms do not override those legitimate interests.
+
+If you identify yourself to us by sending us an e-mail with questions or comments, we may use your information (including personally identifiable information) to respond to your questions or comments, and we may file your questions or comments (with your information) for future reference.
+
+We may also use the information collected to send announcements and updates regarding the Service or, if applicable, about your billing account status. You will not be able to unsubscribe from these Service announcements and updates as they contain important information relevant to your use of the Service and are necessary for the performance of our contract with you.
+
+We may also use the information gathered to perform statistical analysis of user behavior or to evaluate and improve the Service. We may link some of this information to personally identifiable information for internal purposes or to improve your experience with the Service.
+
+WHEN DOES RENDEVER DISCLOSE INFORMATION TO THIRD PARTIES?
+
+We generally disclose information we gather from you through the Service to the following types of third parties and as otherwise set forth in this Privacy Policy or as specifically authorized by you.
+
+Laws and Legal Rights.
+
+We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, lawful requests by public authorities, including to meet national security or law enforcement requirements, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating a contract with us, to detect fraud, for assistance with a delinquent account, or to protect the safety and/or security of our users, the Service or the general public.
+
+Third Parties Generally.
+
+We may provide to third parties non-personally identifiable information, including where such information is combined with similar information of other users of the Service. For example, we might inform third parties regarding the number of unique users who use the Service, the demographic breakdown of our users of the Service, or the products and/or services purchased using the Service and the vendors of such products and services. In addition to the above, when users use our Service, third parties (including without limitation third-party analytics service providers and commercial partners) may directly collect personally identifiable and non-personally identifiable information about our users’ online activities over time and across different websites. The third parties to which we may provide or who may independently directly collect personally identifiable and non-personally identifiable information may include providers of services (including vendors, analytics services providers, and website tracking services), affiliates and other actual or potential commercial partners, and other similar parties.
+
+Outside Contractors.
+
+We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service. In the course of providing products or services to us, these Outside Contractors may have access to information collected through the Service, including your personally identifiable information. We use reasonable efforts to ensure that these Outside Contractors are capable of protecting the security of your personally identifiable information.
+
+Please note in particular that the Service uses Google Analytics, including its data reporting features, and that we use Google AdWords and Google AdSense, to promote the Service. Information collected by Google includes but is not limited to web metrics. For information on how Google Analytics collects and processes data, please see the site “How Google uses data when you use our partners' sites or apps”, currently located at www.google.com/policies/privacy/partners/. For information on opting out of Google Analytics, we encourage you to visit Google’s website, including its list of currently available opt-out options presently located at https://tools.google.com/dlpage/gaoptout. For information on Google AdWords’ and Google AdSense’s currently available opt-out options, we encourage you to visit Google’s website. In addition you may opt out of a third-party vendor's use of cookies for personalized advertising by visiting www.aboutads.info.
+
+Sale of Business.
+
+We reserve the right to transfer information to a third party in connection with a sale, merger or other transfer of all or substantially all of the assets of Rendever or any of its Corporate Affiliates (as defined below), or that portion of Rendever or any of its Corporate Affiliates to which the Service relates, or in connection with a strategic investment by a third party in Rendever, or in the event that we discontinue our business or file a petition or have filed against us a petition in bankruptcy, reorganization or similar proceeding.
+
+Affiliates.
+
+We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy: "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Rendever, whether by ownership or otherwise; and “control” means possessing, directly or indirectly, the power to direct or cause the direction of the management, policies or operations of an entity, whether through ownership of fifty percent (50%) or more of the voting securities, by contract or otherwise.
+
+DOES THIS PRIVACY POLICY APPLY WHEN I LINK TO OTHER WEBSITES OR SERVICES?
+
+Our Service may provide you with access to other websites and services. Please be aware that we are not responsible for the privacy practices of any websites or services other than the Service. A link to a third-party website does not constitute or imply endorsement by us. Additionally, we cannot guarantee the quality or accuracy of information presented on those websites. We encourage you to read the privacy policies or statements of each and every such website and service. This Privacy Policy applies solely to information collected by us through the Service.
+
+IS THE INFORMATION COLLECTED THROUGH THE SERVICE SECURE?
+
+We want your information (including personally identifiable information) to remain secure. We strive to provide transmission of your information from your computer or mobile device to our servers through techniques that are consistent with commercially reasonable standards and to employ administrative, physical, and electronic measures designed to protect your information from unauthorized access.
+
+Notwithstanding the above, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security or privacy of any information you transmit to us, and you do so at your own risk.
+
+COULD MY INFORMATION BE TRANSFERRED TO OTHER COUNTRIES?
+
+Personally identifiable information collected on the Service may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and the Service may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such information. By using the Service and submitting such information on it, you voluntarily consent to the trans-border transfer and hosting of such information. Without limitation of the foregoing, you hereby expressly grant consent to Rendever to: (a) process and disclose such information in accordance with this Privacy Policy; (b) transfer such information throughout the world, including to the United States or other countries that do not ensure adequate protection for personally identifiable information (as determined by the European Commission, each, an "Inadequate Jurisdiction") and/or countries that may not have laws of general applicability regulating the use and transfer of such information; and (c) disclose such information to comply with lawful requests by public authorities, including to meet national security or law enforcement requirements. To the extent required by applicable law: whenever we transfer your personal data (as defined in the GDPR) to third parties (as described in this Privacy Policy) located in an Inadequate Jurisdiction, we ensure a similar degree of protection is afforded to it; we may use specific contracts approved by the European Commission which give personal data the same protection it has in the European Economic Area under the GDPR; and if we rely on another basis to transfer your personal data to an Inadequate Jurisdiction, we will keep you updated or contact you if required. Please contact us if you want further information on the specific mechanisms used by us when transferring your personal data to an Inadequate Jurisdiction. If you are a user accessing the Service from a jurisdiction with laws or regulations governing personal data collection, use, and disclosure that differ from those of the United States, please be advised that all aspects of the Service are governed by the internal laws of the United States and the Commonwealth of Massachusetts, USA, regardless of your location.
+
+FOR HOW LONG WILL MY PERSONALLY IDENTIFIABLE INFORMATION BE KEPT?
+
+We will only retain your personally identifiable information for as long as necessary to fulfill the purposes for which we collected it.
+
+To determine the appropriate retention period for personally identifiable information, we consider the amount, nature, and sensitivity of that information, the potential risk of harm from unauthorized use or disclosure, the purposes for which we process your personally identifiable information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+WHAT CHOICES DO I HAVE REGARDING MY PERSONALLY IDENTIFIABLE INFORMATION?
+
+We generally use personally identifiable information as described in this Privacy Policy or as authorized by you or as otherwise disclosed at the time we request such information from you. You generally must "opt in" and give us permission to use your personally identifiable information for any other purpose. You may also change your preference and "opt out" of receiving certain marketing communications from us by following the directions provided in association with the communication or such other directions we may provide or by contacting privacy@Rendever.com.
+
+Under certain circumstances and in compliance with the GDPR, you have the right to:
+
+Request access to your personally identifiable information (commonly known as ‘subject access request’). This enables you to receive a copy of the personally identifiable information we hold about you and to check that we are lawfully processing it;
+
+Request correction of the personally identifiable information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected;
+
+Request erasure of your personally identifiable information. This enables you to ask us to delete or remove your personally identifiable information where there is no good reason for us to continue processing it. You also have the right to ask us to delete or remove all of your personally identifiable information in certain circumstances;
+
+Object to processing of your personally identifiable information where we are relying on a legitimate interest (or that of a third party) and there is something about your particular situation which makes you want to object to processing on this ground;
+
+Request the restriction of processing of your personally identifiable information. This enables you to ask us to suspend the processing of your personally identifiable information, for example, if you want us to establish its accuracy or the reason for processing it;
+
+Request the transfer of your personally identifiable information to another party; and
+
+Lodge a complaint with the relevant supervisory authority (as defined in the GDPR). If you have any complaints about the way we process your personally identifiable information, please do contact us. Alternatively, you may lodge a complaint with the supervisory authority which is established in your country.
+
+If you want to review, verify, correct or request erasure of your personally identifiable information, object to the processing of your personally identifiable information, or request that we transfer a copy of your personally identifiable information to another party, please contact privacy@Rendever.com.
+
+Such updates, corrections, changes and deletions will have no effect on other information that we maintain, or information that we have provided to third parties in accordance with this Privacy Policy prior to such update, correction, change or deletion. To protect your privacy and security, we may take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+
+You should be aware that it may not be technologically possible to remove each and every record of the information you have provided to us from our system. The need to back up our systems to protect information from inadvertent loss means that a copy of your personally identifiable information may exist in a non-erasable form that will be difficult or impossible for us to locate. After receiving your request, we will use commercially reasonable efforts to update, correct, change, or delete, as appropriate, all personally identifiable information stored in databases we actively use and other readily searchable media as appropriate, as soon as and to the extent reasonably practicable.
+
+HOW WILL I KNOW IF THERE ARE ANY CHANGES TO THIS PRIVACY POLICY?
+
+We may revise this Privacy Policy from time to time. We will not make changes that result in significant additional uses or disclosures of your personally identifiable information without allowing you to “opt in” to such changes. We may also make non-significant changes to this Privacy Policy that generally will not significantly affect our use of your personally identifiable information, for which your opt-in is not required. We encourage you to check this page periodically for any changes. If any non-significant changes to this Privacy Policy are unacceptable to you, you must immediately contact us and, until the issue is resolved, stop using the Service.
+
+WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?
+
+If you have any questions or comments about this Privacy Policy or feel that we are not abiding by the terms of this Privacy Policy, please contact us in any of the following ways:
+
+By e-mail:
+
+privacy@rendever.com
+
+By postal mail or courier:
+
+Attn: Privacy
+Rendever, Inc.
+66-70 Union Square
+Third Floor
+Somerville MA 02143
+
+ 
+
+BY USING THE SERVICE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE SERVICE. CONTINUED USE OF THE SERVICE, FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY THAT DO NOT SIGNIFICANTLY AFFECT THE USE OR DISCLOSURE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION, MEANS THAT YOU ACCEPT THOSE CHANGES.
