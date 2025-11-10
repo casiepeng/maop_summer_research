@@ -1,0 +1,143 @@
+Privacy Policy
+Last Updated: September 29, 2025
+This Privacy Policy (“Policy”) describes how Immersed Inc. and its related companies (“Immersed,” “Company,” “we,” “our,” or “us”) collect, use, and share personal information of consumer users of this website, https://immersed.com (the “Site”), our investment portal https://invest.immersed.com, and any of our other websites or applications that post this Policy (together, the “Services”).
+
+By using our Services, you agree to this Policy. If you do not agree, please do not use our Services.
+
+WHAT WE DO NOT COLLECT
+Local Streaming Protocols. For data transmissions streamed locally, communications are encrypted using Advanced Encryption Standard (AES) algorithms. All real-time communications and signaling are encrypted during transmission. This data is not retained or stored in any of our systems or databases.
+
+Remote Streaming Protocols. If a local streaming connection fails to establish, your video stream is securely encrypted and transmitted via a secure remote relay server operated by Immersed before being relayed to your headset. This data is not retained or stored in our systems or databases.
+
+Collaborative Transmission Protocols. In collaborative functionalities (e.g., screen sharing), all video and audio data are encrypted through our server. While transmitted to designated clients during the session, this data is not retained or stored in our databases.
+
+WHAT WE COLLECT
+Information You Provide. We collect information you directly give us, such as your username, email, payment details, shipping address, or other information when you create an account, place an order, or otherwise interact with our Services.
+
+Information Automatically Collected. We automatically log information about you and your device when you use our Services, such as operating system type, hardware specifications, IP address, access times, pages visited, and actions taken.
+
+Cookies. We collect information using cookies and similar technologies. See the Cookies section below for details, including the investment page exception and regional differences.
+
+Facial Scan Data. Through the Immersed mobile application, you may voluntarily submit facial scans (including selfie images and Inter Pupillary Distance measurements) to customize your Visor headset and improve our face-scanning algorithm.
+
+All data is encrypted in transit and at rest.
+
+IPD information may be shared with manufacturing partners under equal or stronger protections.
+
+Data may be used to improve machine learning models for headset manufacturing.
+
+Data is stored indefinitely unless you request deletion (see “User Data Deletion Requests” below).
+
+Curator (AI Agent). Curator, our AI computer-using agent, integrates with Large Language Model (LLM) APIs to provide personalized assistance.
+
+Data remains private and encrypted locally on your device.
+
+You control which apps Curator can or cannot access.
+
+Encrypted messaging apps (Signal, iMessage, Telegram, etc.) are excluded by default.
+
+Data is shared with LLMs only when necessary, and subject to their privacy policies.
+
+Note: We will never sell your personal data.
+
+USE OF PERSONAL INFORMATION
+We use personal information to:
+
+Operate, maintain, and improve our Services;
+
+Create, manage, and authenticate accounts;
+
+Conduct internal research and development;
+
+Respond to customer service requests;
+
+Debug and secure our Services;
+
+Complete transactions and contractual obligations;
+
+Send technical notices, updates, invoices, security alerts, and support messages;
+
+Communicate about products, services, offers, promotions, and events;
+
+Monitor and analyze usage and trends;
+
+Protect the rights and property of Immersed and comply with legal obligations.
+
+SHARING OF PERSONAL INFORMATION
+We may share information as follows:
+
+With Consent. For example, if you allow us to share information with third parties for marketing, those uses will be governed by their privacy policies.
+
+Business Transfers. During any merger, acquisition, financing, or sale of assets.
+
+Legal and Safety. To comply with laws, respond to lawful requests, and protect rights and property.
+
+Vendors and Service Providers. With third parties who perform services on our behalf under confidentiality obligations.
+
+No Mobile Information Sales. We do not share or sell mobile information, including SMS opt-in data and consent, with third parties or affiliates for marketing or promotional purposes. Information sharing to subcontractors or service providers is permitted only for support services, such as customer service, and not for marketing. You may opt out of SMS communications at any time by replying STOP.
+
+We may also share aggregated and anonymized data that does not identify individuals.
+
+USER DATA DELETION REQUESTS
+You may request deletion of your data at any time by either:
+
+Using the “Delete User Data” option in the Immersed mobile app, or
+
+Emailing support@immersed.com from your registered email, including your username.
+
+We will confirm once deletion is complete.
+
+COOKIES
+We use cookies and similar technologies to operate our Services, remember preferences, and improve user experience. Cookies help us understand interactions and enable essential features.
+
+You may remove or reject cookies in your browser settings, but some features may not function properly.
+
+Investment Page Exception. On https://invest.immersed.com, we only set essential cookies to support your activity. Because these are strictly necessary, the usual “we’ll ask for your consent” language does not apply to this page.
+
+Regional Differences.
+
+EU/EEA and UK: Consent is required before setting non-essential cookies (e.g., analytics, advertising). Consent may be withdrawn at any time.
+
+United States (including California): We disclose cookie categories. If cookies qualify as a “sale” or “sharing” of personal information under the California Consumer Privacy Act (CCPA/CPRA), you have the right to opt out via a “Do Not Sell or Share My Personal Information” link.
+
+Other Regions: Where local laws apply, we will request consent before setting non-essential cookies.
+
+INFORMATION CHOICES AND CHANGES
+Account Information. You may update your account information by logging in or contacting us.
+
+Email Marketing. You may opt out of promotional emails using the unsubscribe link. We may still send non-marketing communications (e.g., security alerts, transaction confirmations).
+
+SMS/Text Messaging. If you provide your phone number, we may send SMS or MMS messages related to our Services, promotions, or your investment activity.
+
+Consent to receive SMS messages is not a condition of purchase.
+
+Standard carrier message and data rates may apply.
+
+You may opt out at any time by replying STOP, or by contacting us at support@immersed.com.
+
+Even after opting out of marketing texts, you may still receive necessary non-marketing texts (e.g., order confirmations, security alerts).
+
+When you opt in to receive SMS/Text Messaging from Immersed, you will receive the following opt-in confirmation message: “You’re subscribed to Immersed alerts. 4 msgs/month. Msg&data rates may apply. For help, email invest@immersed.com. Reply STOP to opt out.”
+
+If you choose to opt out of receiving SMS/Text Messaging, you will receive the following opt-out confirmation message: “You have been unsubscribed from Immersed alerts and will no longer receive messages. For help, email invest@immersed.com.”
+
+SMS/text messaging opt-in data and consent will not be shared with any third parties or affiliates for marketing or promotional purposes. Such information may only be shared with service providers as necessary to operate the messaging program.
+
+Cookies. You can manage cookies via browser settings. For details, see the Cookies section above.
+
+SECURITY OF PERSONAL INFORMATION
+We implement reasonable technical, administrative, and organizational safeguards to protect personal information. While no system is 100% secure, we continuously work to protect your data from loss, misuse, unauthorized access, or disclosure.
+
+CHILDREN’S PRIVACY
+Our Services are not directed to children under 13, and we do not knowingly collect information from children under 13. If we become aware that we have collected such data, we will delete it promptly.
+
+CHANGES TO THIS PRIVACY POLICY
+We may change this Policy from time to time. If we make changes, we will update the “Last Updated” date above.
+
+CONTACT INFORMATION
+We welcome your comments or questions about this Policy. Please contact us at:
+
+Immersed Inc.
+P.O. Box 40681
+Austin, TX 78704
+Email: support@immersed.com

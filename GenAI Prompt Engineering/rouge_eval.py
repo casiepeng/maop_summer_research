@@ -1,4 +1,5 @@
 from rouge_score import rouge_scorer
+import os
 
 # -----------------------------------------------------------------------------------------------------------
 # Evaluates the generated reponse given (finds the path the txt file is in to open)
@@ -27,9 +28,17 @@ from rouge_score import rouge_scorer
 # initialize scorer, specifies the scores I want to use
 scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
 
-# get the policy 
-# get the reference summary (the LLM summary from the prompting)
+# loop through each policy to examine and score
+for file in os.listdir("privacy_policies"):
+    # get the policy
+    file_path = os.path.join("privacy_policies", file_path)
+    #policy_name = 
+    with open(file_path, "r", encoding="utf-8") as f: 
+        reference = f.read()
 
+    # get the reference summary (the LLM summary from the prompting)
+
+    # write the output into another folder
 
 
 
