@@ -1,5 +1,5 @@
 # ------------------------------------
-# This code will evaluate the accuracy of 
+# This pseudo code will evaluate the accuracy of 
 # the sensors present in the LLM interpretation
 # compared to its privacy policy. 
 # 
