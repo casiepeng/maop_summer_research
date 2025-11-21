@@ -1,0 +1,44 @@
+Based on the provided privacy policy from volucap.com/privacy-policy-voluverse/, here is a summary without adding outside information or omitting key details:
+
+Volucap GmbH acts as the data controller for the processing of your personal data.
+
+**Data Collection and Processing:**
+
+1.  **When Visiting the Website:**
+    *   **What:** The website collects data in server log files, including your IP address, browser type, operating system, referrer URL, and time of access. Essential cookies are also used for website functionality.
+    *   **Why:** This data is processed for system security, operation, error analysis, and to ensure network and information security.
+    *   **Legal Basis:** Legitimate interest (GDPR Art. 6(1)(f)).
+    *   **Retention:** Server log files are stored for a maximum of 7 days.
+
+2.  **When Contacting Volucap (via Email or Contact Form):**
+    *   **What:** If you contact them, they collect your email address, name, and any other information you provide in your message.
+    *   **Why:** To process your request and communicate with you.
+    *   **Legal Basis:** Legitimate interest (to respond to inquiries), for the initiation or fulfillment of a contract, or based on your consent.
+    *   **Retention:** Data is stored until your request is fully processed or as long as required by legal retention periods.
+
+3.  **Regarding the Voluverse App:**
+    *   **Crucially, the Voluverse App DOES NOT store or transmit any personal data to Volucap GmbH.**
+    *   **No Internet Connection Required:** The app functions completely offline.
+    *   **Local Storage Only:** All app data, such as game progress or settings, is stored *only locally* on your device. Volucap does not have access to this data.
+    *   **No Tracking or Analytics:** The Voluverse App does not collect or send any analytics data, user behavior, or other information to Volucap.
+
+**Data Recipients:**
+
+*   Your personal data is generally not shared with third parties, except where legally required or when necessary for the technical operation of the website (e.g., with a web hoster or IT service provider, who act as processors under strict agreements).
+*   **No data from the Voluverse App is shared** as it does not transmit any data.
+
+**Data Transfer Outside EU/EEA:**
+*   There are no plans for data transfer to countries outside the EU/EEA. If such a transfer were to occur, appropriate safeguards (like standard contractual clauses) would be implemented.
+
+**Your Rights (under GDPR):**
+You have the right to:
+*   **Information/Access** (Art. 15): Request details about your processed data.
+*   **Rectification** (Art. 16): Correct inaccurate personal data.
+*   **Erasure** (Art. 17): Request deletion of your data.
+*   **Restriction of processing** (Art. 18): Limit how your data is used.
+*   **Data Portability** (Art. 20): Receive your data in a structured, common format.
+*   **Objection** (Art. 21): Object to processing based on legitimate interest.
+*   **Withdraw Consent** (Art. 7(3)): Revoke any given consent at any time.
+*   **Lodge a complaint** (Art. 77): With a supervisory authority.
+
+You can contact Volucap GmbH's Data Protection Officer for any questions regarding data protection.

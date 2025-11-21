@@ -1,0 +1,35 @@
+Based on the privacy policy from AuraVision, effective May 23, 2024, here's a summary:
+
+AuraVision, a company providing AI-powered tools for digital art, video, music, and text, is committed to protecting user privacy.
+
+**Information Collected:**
+*   **Directly from you:** When creating an account (name, email, password), making purchases (payment information, though processed by third-party providers and not stored directly by AuraVision), and interacting with their services (user content like images, audio, video, text prompts, and generated content are stored). When you contact support, they collect communication details.
+*   **Automatically collected:** Usage data (IP address, browser, OS, pages visited, time spent, referral sources) and information via cookies and similar technologies for functionality, analytics, and personalization.
+*   **From third parties:** Basic profile information if you use social logins (e.g., Google, Facebook) and data from service providers like analytics or payment processors.
+
+**How Information is Used:**
+AuraVision uses your data to provide, maintain, and improve their services, process transactions, communicate with you (including marketing, with consent), ensure security, perform analytics, comply with legal obligations, and for research and development, which includes **training and improving their AI models.**
+
+**How Information is Shared:**
+Your information may be shared with:
+*   **Service Providers:** Third parties that assist with hosting, analytics, payment processing, customer support, etc.
+*   **Business Transfers:** In case of mergers, acquisitions, or asset sales.
+*   **Legal Obligations:** To comply with laws, subpoenas, court orders, or government requests.
+*   **With Your Consent:** For any other purpose you explicitly agree to.
+*   **Aggregated/Anonymized Data:** Data that does not identify you personally may be shared for research, marketing, or other purposes.
+The policy **does not state that AuraVision sells personal data to third parties for their marketing purposes.**
+
+**Your Choices and Rights:**
+You have rights to access, correct, or request deletion of your personal data. You can opt-out of marketing communications and manage cookie settings through your browser. Account settings allow you to update profile information.
+
+**Data Security:**
+AuraVision implements technical, administrative, and physical safeguards to protect your information, but acknowledges that no internet transmission or storage method is 100% secure.
+
+**Children's Privacy:**
+AuraVision's services are not intended for individuals under the age of 13. If they discover they have collected data from a child under 13, they will promptly delete it.
+
+**Changes to Policy:**
+AuraVision may update this policy and will notify users of significant changes via email or by posting a notice on their website. The "Effective Date" will be updated accordingly.
+
+**Contact Information:**
+For any privacy concerns, you can contact AuraVision at support@auravision.xyz.

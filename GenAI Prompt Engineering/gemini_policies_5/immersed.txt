@@ -1,0 +1,73 @@
+Here's a summary of Immersed's Privacy Policy, dated December 1, 2023, without adding outside information or getting rid of key details:
+
+Immersed, Inc. (Immersed) collects information to provide, maintain, and improve its products and services.
+
+**1. Information Immersed Collects:**
+
+*   **Information You Provide Directly:**
+    *   **Account Information:** Name, email, password, profile picture, avatar, user ID, and bio when you create an account.
+    *   **User Content:** Files, documents, images, and virtual objects you upload, create, or share within Immersed workspaces. You control the sharing settings for this content.
+    *   **Communications:** Information from emails, support requests, survey responses, or direct messages to Immersed.
+    *   **Payment Information:** If applicable, processed by third-party payment processors (e.g., Stripe); Immersed does not directly store your credit card details.
+*   **Information Collected Automatically:**
+    *   **Usage Data:** IP address, device identifiers, operating system, browser type, application version, features used, session duration, and crash logs.
+    *   **Virtual Environment Data:** Spatial data, headset movement (e.g., position, orientation), and if enabled in your headset settings, hand and eye tracking data (used for core functionality like interactions and avatar pose, not for individual identification).
+    *   **Cookies and Tracking Technologies:** Cookies, pixels, and similar technologies to collect data for analytics, personalization, and security purposes.
+*   **Information from Third-Party Sources:**
+    *   **Social Media:** If you link third-party social media accounts, they may collect your name, email, and profile picture.
+    *   **Service Providers:** Data from partners who provide services to Immersed.
+
+**2. How Immersed Uses Your Information:**
+
+*   To provide, operate, maintain, and improve the Immersed services.
+*   To personalize your experience and recommend relevant content or workspaces.
+*   To communicate with you, including service updates, security alerts, and marketing (with an opt-out option).
+*   To analyze usage trends for research and development.
+*   To ensure security, detect fraud, and protect legal rights.
+*   To comply with legal obligations.
+
+**3. How Immersed Shares Your Information:**
+
+*   **With Other Users:** Content you explicitly share in collaborative workspaces is visible to those you invite. You control these sharing settings.
+*   **Service Providers:** With third-party vendors (e.g., hosting, analytics, payment processing, customer support) who perform services on Immersed's behalf, under strict confidentiality agreements.
+*   **Affiliates:** With companies within the Immersed corporate family.
+*   **For Legal Reasons:** To comply with law, respond to legal processes, or protect the rights, property, or safety of Immersed, its users, or the public.
+*   **Business Transfers:** In connection with a merger, acquisition, asset sale, or similar transaction.
+*   **With Your Consent:** When you give specific permission to share information.
+*   **Aggregated/De-identified Data:** Non-personally identifiable information may be shared for research, analytics, or marketing.
+
+**4. Your Choices and Rights:**
+
+*   **Account Information:** You can review, update, or correct your account details through the service settings.
+*   **Opt-Out:** You can opt-out of marketing communications.
+*   **Tracking Technologies:** You can manage cookies through browser settings and control headset-specific tracking (like hand/eye tracking) via your headset's privacy settings.
+*   **Data Rights:** Depending on your location (e.g., GDPR, CCPA), you may have rights to access, rectify, erase, restrict processing of, object to processing of, or port your data. You can exercise these rights by contacting Immersed.
+*   **Account Deletion:** You can delete your account, though some data may be retained in backups or archives for a limited time or for legal reasons.
+
+**5. Data Security:**
+
+*   Immersed implements technical, administrative, and physical safeguards to protect your information, but acknowledges that no method of transmission or storage is 100% secure.
+
+**6. Data Retention:**
+
+*   Immersed retains your information as long as necessary for the purposes outlined in the policy, to comply with legal obligations, or to resolve disputes. Some data may be retained after account deletion.
+
+**7. Third-Party Links:**
+
+*   The service may contain links to third-party websites, for whose privacy practices Immersed is not responsible.
+
+**8. Children's Privacy:**
+
+*   Immersed's services are not intended for children under 13. They do not knowingly collect personal information from children under 13. If such data is discovered, it will be promptly deleted.
+
+**9. Changes to This Privacy Policy:**
+
+*   Immersed may update this policy and will notify you of significant changes via email or through the service.
+
+**10. Contact Us:**
+
+*   For questions or to exercise your rights, contact Immersed at privacy@immersed.com or by mail at:
+    Immersed, Inc.
+    228 Park Ave S, PMB 70004
+    New York, New York 10003-1502
+    US

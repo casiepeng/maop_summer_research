@@ -1,0 +1,48 @@
+This privacy policy for the "3D Cinema" app (effective July 19, 2023) outlines how the app collects, uses, shares, and protects user information.
+
+**Information Collected:**
+The app collects:
+*   **Information You Provide:** Such as when creating an account (username, email, password), communicating with the app, or uploading user-generated content (reviews, comments).
+*   **Information Collected Automatically:** Including device information (IP address, device ID, operating system, browser type), usage data (features used, time spent, interactions, crash reports), approximate or precise location data (if permitted by the user), and data from cookies and similar tracking technologies for functionality, analytics, and personalization.
+*   **Information from Third Parties:** Potentially from social media platforms (if linked), analytics providers, and advertisers.
+
+**How Information is Used:**
+Information is used to:
+*   Provide, maintain, and improve the app's services and features.
+*   Personalize user experience and content.
+*   Communicate with users regarding updates, security alerts, and marketing (if opted in).
+*   Conduct analytics to understand usage patterns.
+*   Deliver relevant marketing and advertising.
+*   Ensure security, prevent fraud, and protect rights.
+*   Comply with legal obligations.
+
+**How Information is Shared:**
+Information may be shared with:
+*   **Service Providers:** Third-party vendors assisting with app operations (e.g., hosting, analytics, customer support, advertising).
+*   **Business Transfers:** In the event of a merger, acquisition, or asset sale.
+*   **Legal Compliance and Protection:** To respond to legal requests, enforce terms, or protect rights, property, or safety.
+*   **With Your Consent:** For any other specific sharing.
+*   **Aggregated or Anonymized Data:** Which does not directly identify users, for various purposes.
+
+**Your Choices and Rights:**
+Users have rights regarding their data, including:
+*   Accessing or correcting personal information.
+*   Requesting deletion of personal information (subject to legal obligations).
+*   Opting out of marketing communications.
+*   Managing location services and cookie preferences through device or browser settings.
+*   Requesting data portability or objecting to certain processing activities.
+
+**Data Security and Retention:**
+The app uses reasonable administrative, technical, and physical safeguards to protect information but acknowledges no method is 100% secure. Data is retained as long as necessary for the purposes outlined or as required by law.
+
+**International Data Transfers:**
+User information may be transferred to and processed in countries outside the user's residence, which may have different data protection laws.
+
+**Children's Privacy:**
+The app is not intended for children under 13, and the app does not knowingly collect personally identifiable information from them. Any such data found will be deleted.
+
+**Changes to Policy:**
+The policy may be updated periodically, with the effective date revised and users notified by posting the new policy within the app or website.
+
+**Contact Information:**
+For questions or to exercise rights, users can contact `privacy@xverse.cn`.

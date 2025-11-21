@@ -1,0 +1,55 @@
+VRChat Inc.'s Privacy Policy outlines how they collect, use, and share information when you use their VRChat services (website, application, and related services). The policy was last updated on February 27, 2024.
+
+Here's a summary of the key points:
+
+**1. Information VRChat Collects:**
+
+*   **Information You Provide:**
+    *   **Account Information:** Username, password, email address. Optionally, display name, profile picture, bio, social media links.
+    *   **User Content:** Any content you create, upload, or share on the service, including avatars, worlds, messages, photos, videos, and audio.
+    *   **Communications:** Information from your interactions with VRChat customer support.
+    *   **Survey/Promotion Data:** Information you provide when participating in surveys or promotions.
+    *   **Payment Information:** If you make purchases, VRChat receives transaction details from third-party payment processors but does not store your full payment card information.
+*   **Information We Collect Automatically:**
+    *   **Usage Information:** Details about how you use the services, such as features used, content viewed, time spent, interactions with other users, join/leave times, movement data, and voice data (which is processed for service delivery and moderation but generally not stored as content, unless explicitly reported for moderation purposes).
+    *   **Technical Information:** Device information (operating system, hardware model, IP address, unique device identifiers), browser type, connection type, and crash reports.
+    *   **Cookies and Tracking Technologies:** VRChat uses cookies and similar technologies for analytics, personalization, security, and advertising.
+
+**2. How VRChat Uses Information:**
+
+*   To provide, maintain, and improve the services.
+*   To personalize your experience, including recommending content.
+*   To ensure safety and security, such as detecting and preventing fraud, abuse, and enforcing their Terms of Service.
+*   To communicate with you about service updates, security alerts, and support messages.
+*   To perform analytics and research.
+*   For marketing and promotional purposes, with your consent where required.
+*   To comply with legal obligations.
+
+**3. How VRChat Shares Information:**
+
+*   **Other VRChat Users:** Your public profile information and any User Content you make public.
+*   **Service Providers:** With third-party vendors and service providers who perform services on their behalf (e.g., hosting, analytics, customer support, payment processing, moderation, marketing).
+*   **Legal Reasons and Safety:** To comply with legal processes, protect the rights, property, or safety of VRChat, its users, or the public, and to enforce their Terms of Service.
+*   **Business Transfers:** In connection with a merger, acquisition, sale of assets, or similar transaction.
+*   **Affiliates:** With companies that are part of the VRChat group.
+*   **With Your Consent.**
+
+**4. Your Choices and Rights:**
+
+*   **Account Settings:** You can update your profile information and manage certain settings through your account.
+*   **Communications:** You can opt out of receiving promotional emails.
+*   **Cookies:** You can manage cookies through your browser settings.
+*   **Privacy Rights:** Depending on your location (e.g., GDPR, CCPA), you may have rights to access, rectify, erase, restrict, object to processing, or port your data. You can submit requests through their designated contact methods.
+*   **Account Deletion:** You can delete your account, which will deactivate it and initiate the process of data removal, though some data may be retained for a limited period or for legal/security reasons.
+
+**5. Children's Privacy:**
+
+*   VRChat services are **not intended for children under 13 years of age**. They do not knowingly collect personal information from individuals under 13. If they learn they have, they will delete that information.
+
+**6. Data Retention:**
+
+*   VRChat retains information for as long as necessary to fulfill the purposes for which it was collected, including for a limited period after account deletion, or as required by law.
+
+**7. International Data Transfers:**
+
+*   Your information may be transferred to and processed in the United States and other countries, and VRChat uses legal safeguards like Standard Contractual Clauses to protect your data during these transfers.

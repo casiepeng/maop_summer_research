@@ -1,0 +1,45 @@
+The Google Privacy Policy outlines how Google collects, processes, and uses your personal information across all its services, and the controls you have over that information.
+
+**1. Information Google Collects:**
+Google collects information to provide, improve, and protect its services. This includes:
+*   **Information you provide:** When you create a Google Account (name, email, phone number), provide payment info, or create content (emails, photos, documents).
+*   **Information collected as you use services:**
+    *   **Device information:** Hardware model, operating system, unique device identifiers, mobile network information.
+    *   **Log information:** Search queries, IP address, system activity, hardware settings, browser type, date and time of request, referral URL.
+    *   **Location information:** IP address, GPS, sensor data from your device, and information about nearby Wi-Fi access points and cell towers.
+    *   **Unique application numbers:** For certain services, to install or uninstall apps.
+    *   **Local storage:** Browser web storage (including HTML5) and application data caches.
+    *   **Cookies and similar technologies:** To identify your browser or device.
+
+**2. Why Google Collects Information:**
+Google uses this information for various purposes:
+*   **Provide, maintain, and improve services:** Delivering requested services, ensuring functionality, and making them better.
+*   **Develop new services:** Using data to build future offerings.
+*   **Provide personalized services, including content and ads:** Tailoring user experience based on activity.
+*   **Measure performance:** Understanding how services are used.
+*   **Communicate with you:** Sending updates, security alerts, and support messages.
+*   **Protect Google, its users, and the public:** Ensuring safety and security, detecting fraud and abuse.
+
+**3. Your Privacy Controls:**
+You have significant control over your information:
+*   **Google Account:** Access and manage various privacy tools like the Privacy Dashboard, Activity Controls (for Web & App Activity, Location History, YouTube History), and Ad Settings to review, update, and remove information.
+*   **Browser/Device Settings:** Manage cookies and mobile device permissions.
+*   **Sharing Settings:** Choose what information is public or private.
+*   **Downloading your data:** Export your content from Google services.
+*   **Deleting your data:** Option to delete your Google Account and associated data.
+
+**4. Sharing Your Information:**
+Google only shares personal information in specific circumstances:
+*   **With your consent:** When you explicitly allow it.
+*   **For external processing:** With trusted partners and affiliates, under strict confidentiality agreements, following Google's instructions.
+*   **For legal reasons:** If required by law, court order, to enforce terms, or to protect the rights, property, or safety of Google, its users, or the public.
+*   **Non-personally identifiable information:** Can be shared publicly and with partners (publishers, advertisers) in an aggregated form.
+
+**5. Keeping Your Information Secure:**
+Google implements security measures (encryption, physical security) to protect your data from unauthorized access, alteration, disclosure, or destruction.
+
+**6. Retaining Your Information:**
+Google retains your information for as long as necessary for the purposes outlined in the policy, or until you remove it, subject to legal and legitimate business requirements.
+
+**7. Policy Updates:**
+The Privacy Policy may be updated periodically, with significant changes notified to users.

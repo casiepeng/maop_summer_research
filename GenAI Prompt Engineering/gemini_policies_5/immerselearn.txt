@@ -1,0 +1,20 @@
+Here's a summary of Immerselearn.com's privacy policy:
+
+Immerselearn.com, a WordPress site, collects personal data when you interact with it:
+
+*   **Comments:** When you leave comments, the site collects your name, email address, IP address, and browser user agent string to help detect spam and display your comment after approval. An anonymized string from your email (hash) may be provided to the Gravatar service to display your profile picture if you use it. Comment data is retained indefinitely.
+*   **Media:** If you upload images, you should avoid uploading those with embedded location data (EXIF GPS) as visitors can download and extract this information from images on the website.
+*   **Cookies:**
+    *   **Commenter Cookie:** Saves your name, email, and website for one year for convenience when leaving future comments.
+    *   **Login Cookies:** For registered users, two cookies are set: one for screen display choices (lasts one year) and one for login details (lasts two days). If "Remember Me" is selected, your login persists for two weeks.
+    *   **Editor Cookie:** If you edit or publish an article, an additional cookie saves the post ID (lasts one day).
+    *   **Consent Cookie:** A cookie is set to remember your cookie consent choice for one year.
+*   **Embedded Content:** Articles may include embedded content (e.g., videos, images, articles) from other websites. This content behaves exactly as if you visited the other website directly, meaning those sites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content.
+*   **Data Sharing:** Your IP address is included in the password reset email if you request one. Comment data is sent to an automated spam detection service (Akismet).
+*   **Data Retention:**
+    *   Comments and their metadata are retained indefinitely to allow for automatic approval of follow-up comments.
+    *   For registered users, personal information provided in their user profile is stored indefinitely. Users can view, edit, or delete their personal information at any time (except changing their username). Website administrators can also see and edit this information.
+*   **Your Rights:**
+    *   You can request an exported file of the personal data the site holds about you.
+    *   You can request that the site erases any personal data held about you, excluding any data the site is obliged to keep for administrative, legal, or security purposes.
+*   **Contact:** For any privacy concerns, you can contact the site at info@immerselearn.com.

@@ -1,0 +1,62 @@
+Here's a summary of the Gorilla Tag VR privacy policy, without adding outside information or getting rid of key details:
+
+This Privacy Policy describes how **Another Axiom, Inc.** (the company behind Gorilla Tag VR) collects, uses, and shares information related to your use of the Gorilla Tag VR game, websites, and associated services (collectively, "Services").
+
+**1. Information They Collect:**
+The company collects both information you provide directly and data automatically collected during your use of the Services.
+
+*   **Information you provide:** This includes contact details (email, username, real name), demographic information (age, gender, country), payment information (if purchased directly), user-generated content (chats, voice, posts, photos), customer support communications, and survey responses.
+*   **Information collected automatically:** This comprises device information (type, operating system, unique identifiers), performance and usage data (gameplay, features used, errors, crashes), IP address, general location derived from IP, and data from cookies and similar tracking technologies. For moderation and safety purposes, voice chat data and VR headset interaction data (e.g., playtime, interactions with the game) may also be collected.
+
+**2. How They Use Your Information:**
+Your data is used to:
+
+*   Provide, operate, maintain, and improve the Services.
+*   Manage your account and communicate with you.
+*   Process transactions.
+*   Provide customer support.
+*   Research, analyze, and personalize your experience.
+*   Develop new products and features.
+*   Ensure safety, security, prevent fraud, and moderate content (including voice chat).
+*   Market and advertise their products and services, where permitted.
+*   Comply with legal obligations.
+
+**3. How They Share Your Information:**
+Your information may be shared with:
+
+*   **Service Providers:** Third parties who perform services on their behalf (e.g., hosting, analytics, customer support, marketing).
+*   **Business Partners:** Developers, publishers, and platform providers (e.g., Meta, Steam) that integrate with the Services.
+*   **Affiliates:** Other companies owned or controlled by Another Axiom, Inc.
+*   **Other Users:** Your public profile information and user-generated content (e.g., posts, chat messages) may be visible to other players.
+*   **Legal & Law Enforcement:** When required by law or to protect their rights, property, or safety, or the safety of others.
+*   **Business Transfers:** In connection with a merger, acquisition, or sale of assets.
+*   **With Your Consent:** For any other purpose disclosed to you.
+
+**4. Your Choices and Rights:**
+
+*   **Account Information:** You can update or delete your account information through the Services settings or by contacting them.
+*   **Marketing Communications:** You can opt out of marketing emails via the unsubscribe link or by contacting them.
+*   **Cookies:** You can manage cookie settings through your web browser.
+*   **Platform Permissions:** You can manage permissions for Gorilla Tag through your VR headset platform (e.g., Meta Quest, Steam).
+*   **Data Protection Rights:** Depending on your location (e.g., GDPR, CCPA), you may have rights to access, rectify, erase, restrict processing of, object to processing of, or port your personal data. Requests require identity verification.
+
+**5. Children's Privacy:**
+The Services are not directed at children under 13. They do not knowingly collect personal data from children under 13 without verifiable parental consent. If they learn that they have collected data from a child under 13 without consent, they will take steps to delete it or seek appropriate consent.
+
+**6. Data Retention:**
+They retain your personal data for as long as necessary to fulfill the purposes for which it was collected, including for legal, accounting, or reporting requirements.
+
+**7. Data Security:**
+They implement reasonable organizational, technical, and administrative measures designed to protect your information.
+
+**8. International Data Transfers:**
+Your information is primarily stored and processed in the United States. It may be transferred to and processed in other countries where they or their service providers operate, with appropriate safeguards in place.
+
+**9. Third-Party Websites/Services:**
+This policy only applies to their Services; it does not cover the privacy practices of third-party websites or services linked to or integrated with Gorilla Tag.
+
+**10. Changes to This Policy:**
+They may update this policy periodically. They will notify you of any material changes by posting the new policy on their website and updating the "Last Updated" date.
+
+**11. Contact Us:**
+For questions about this policy or data practices, you can contact them at privacy@gorillatagvr.com or via postal mail at the address provided in the policy.

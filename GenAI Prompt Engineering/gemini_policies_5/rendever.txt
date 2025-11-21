@@ -1,0 +1,58 @@
+Based on the Rendever Alcove Privacy Policy, here is a summary of its key points:
+
+**Scope of the Policy:**
+*   This policy describes how Alcove (a virtual reality service provided by Rendever Inc.) collects, uses, and shares information through its service, websites, and other interactions.
+
+**Information Collected:**
+*   **Personal Information:** Data that identifies you directly.
+    *   **Account Information:** Name, email address, phone number, physical address, username, password.
+    *   **Demographic Information (Optional):** Age, gender, ethnicity, preferences (via surveys).
+    *   **Payment Information:** Credit card details (processed by third-party processors, not stored directly by Alcove).
+    *   **Device and Usage Information:** IP address, device ID, browser type, operating system, pages visited, features used, time spent, crash data.
+    *   **Content Information:** Photos, videos, messages, voice interactions, and virtual reality interactions (e.g., movements, gaze, interactions with virtual objects/users) that you upload or generate within the service.
+    *   **Customer Support Information:** Records of your communications with customer support.
+*   **Non-Personal Information:** Aggregated or anonymized data that does not identify individuals.
+
+**How Information is Collected:**
+*   **Directly from you:** When you create an account, use the service, participate in surveys, upload content, or contact support.
+*   **Automatically:** Through cookies, web beacons, and other tracking technologies that collect device and usage data.
+*   **From third parties:** Such as service providers (e.g., payment processors, analytics providers) and business partners.
+
+**How Information is Used:**
+*   To provide, operate, maintain, personalize, and improve the Alcove service.
+*   To develop new features, products, and services.
+*   To communicate with you about your account, updates, and marketing (where permitted).
+*   To process transactions and manage your account.
+*   To analyze usage, conduct research, and develop analytics.
+*   To ensure security, prevent fraud, and comply with legal obligations.
+*   For other legitimate business interests permitted by law.
+
+**How Information is Shared:**
+*   **With Third-Party Service Providers:** To perform services on Alcove's behalf (e.g., hosting, payment processing, analytics, customer support). These providers are contractually bound to protect the information.
+*   **With Business Partners:** For co-marketing or joint offerings, often with your consent or notice.
+*   **For Legal Reasons:** To comply with law, respond to valid legal requests (e.g., subpoenas), protect Alcove's rights, property, or safety, and the safety of users or the public.
+*   **In Connection with a Business Transfer:** If Alcove is involved in a merger, acquisition, or asset sale, your information may be transferred as part of that transaction.
+*   **With Your Consent:** For any other purpose not described in the policy.
+*   **Aggregated/Anonymized Data:** May be shared with third parties for research, marketing, or other purposes, as it does not identify individuals.
+
+**Your Choices and Rights:**
+*   You can access, update, or correct your account information through your settings.
+*   You can opt-out of marketing communications using the unsubscribe link or by contacting Alcove.
+*   You can manage cookies through your browser settings.
+*   You may request access to, correction of, or deletion of your Personal Information by contacting Alcove.
+*   Alcove currently does not respond to "Do Not Track" signals.
+
+**Data Security:**
+*   Alcove uses "reasonable administrative, technical, and physical safeguards" to protect your information, but no method of transmission over the internet or electronic storage is 100% secure.
+
+**Data Retention:**
+*   Information is retained for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements.
+
+**Children's Privacy:**
+*   The service is not directed at children under 13. Alcove does not knowingly collect Personal Information from children under 13 and will delete such information if discovered.
+
+**Changes to the Privacy Policy:**
+*   Alcove may update this policy periodically and will notify you of any material changes by posting the updated policy on their website or by email. The "Effective Date" indicates the last revision.
+
+**Contact Information:**
+*   You can contact Alcove with privacy-related questions via the email address provided in the policy.
