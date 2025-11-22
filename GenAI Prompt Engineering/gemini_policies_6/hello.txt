@@ -1,0 +1,13 @@
+Based on the VRChat Privacy Policy (last updated August 23, 2023), the following information is collected via sensors during the application's runtime:
+
+1.  **Audio Data from Microphone:**
+    The policy states that audio data is collected through your device's microphone to facilitate voice chat features.
+    "When you use VRChat, other users may be able to hear your voice, and we may collect audio data through your device’s microphone to enable voice chat features."
+
+2.  **Movement, Gaze, and Other Interactions:**
+    Information related to user inputs, including physical movement and gaze, is collected while using the services. This type of data is typically derived from device sensors.
+    "This includes information regarding user inputs (e.g., button presses, movement, gaze, and other interactions within the Services)."
+
+3.  **Video Information from Camera:**
+    If enabled by the user, the device's camera may be used to collect video information for specific in-service features.
+    "If you enable your camera and/or video settings within the Services, we may collect video information (including still images) through your device’s camera to facilitate specific in-Service features (e.g., avatar capture)."

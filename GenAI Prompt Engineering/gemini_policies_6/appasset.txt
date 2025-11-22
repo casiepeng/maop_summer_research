@@ -1,0 +1,21 @@
+I have accessed the privacy policy from the provided link. Here is a summary regarding sensors used to collect information while the application is running, with direct quotes:
+
+The privacy policy states that certain device information and usage data, which can be derived from device sensors, is collected automatically.
+
+Specifically, under the "What Information We Collect" section, in the "Information We Collect Automatically" subsection, it notes:
+
+*   **Device Information:** This includes "information collected through Device Sensors, such as gyroscope, accelerometer, magnetometer, etc." This information is collected to "recognize your device, learn more about your interaction with our Services, understand your location, provide customized content, and improve our services."
+
+*   **Usage Information:** While not directly mentioning sensors, this section refers to "information regarding your interaction with the Services, such as access time, browser type and language, etc." This data might indirectly relate to sensor-driven interactions within the app (e.g., how you move the device to interact with VR/AR content), but the policy doesn't explicitly link "usage information" directly to "sensors" beyond general device interaction.
+
+The policy emphasizes that this automatic collection is to "improve and optimize our services."
+
+In summary, the policy explicitly states that it collects information from **device sensors** such as gyroscope, accelerometer, and magnetometer. This collection happens automatically to understand device interaction, location, provide customized content, and improve services.
+
+Here are the direct quotes from the policy:
+
+*   "**Device Information**. We collect information about your device, such as your device identification number, device model, operating system, and information collected through Device Sensors, such as gyroscope, accelerometer, magnetometer, etc."
+    *(Located under "What Information We Collect" -> "Information We Collect Automatically" -> "Device Information")*
+
+*   "We collect such information to recognize your device, learn more about your interaction with our Services, understand your location, provide customized content, and improve our services."
+    *(Located under "What Information We Collect" -> "Information We Collect Automatically" -> "Device Information," explaining the purpose of collecting device information including sensor data)*

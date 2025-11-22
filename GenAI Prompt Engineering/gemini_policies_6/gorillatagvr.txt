@@ -1,0 +1,14 @@
+Based on the privacy policy available at https://www.gorillatagvr.com/privacy-policy, the application collects information related to sensors and user movement during its operation.
+
+The policy states that the game collects data "to identify specific player actions (such as movement, jumping, throwing virtual objects) to improve the quality of the gameplay and to identify potential cheaters/exploits."
+
+It further clarifies the types of data collected from "your device and VR headset/HMD," which includes:
+
+*   "**VR Device Identifiers** (such as device manufacturer, model, serial number, and firmware version, but not IP address)"
+*   "**VR Headset and Controller Data** (such as your head pose, controller pose, player height and scale, as well as the position and orientation of your headset and controllers, when using a VR headset)"
+*   "**Game Data** (such as gameplay activity, game progress, session length, and in-game actions)"
+*   "**Performance Data** (such as frame rate and latency)"
+
+In the section "Information from Third-Party Platforms," the policy also notes that "When you access the game through a third-party platform (such as Steam, Oculus, Viveport, PlayStation Store, or others), we may collect information about you from that platform" and this "includes your username and profile picture, as well as device information like your VR headset model and the controllers you use."
+
+In summary, the policy indicates that the application utilizes sensor data from your VR headset and controllers to track movement, position, and orientation, alongside other device and game-related information, primarily for gameplay improvement and anti-cheat measures.

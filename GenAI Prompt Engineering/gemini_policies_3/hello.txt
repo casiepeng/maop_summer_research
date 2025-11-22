@@ -1,8 +1,12 @@
-Based on the VRChat privacy policy provided, the document **does not explicitly use the term "sensors"** or detail the direct collection of raw data from device sensors (like accelerometers, gyroscopes, or specific body-tracking inputs) in its "Information We Collect Automatically" section.
+VRChat collects information directly from your VR headset and any VR accessories you choose to use, such as eye trackers, face trackers, full-body trackers, and haptic devices.
 
-However, the policy states it collects "Gameplay and Usage Data," which includes:
+This sensor-derived data includes details about:
+*   Your avatar's movement and position.
+*   Your facial expressions and eye gaze.
+*   Your hand and finger movements.
 
-*   Information about your **interactions with the Services**, such as gameplay information and usage statistics.
-*   Details about the **features you use**, the content you interact with, and the time, frequency, and duration of your activities.
+This information, which may be considered biometric data in some jurisdictions, is used to animate your avatar for you and others in VRChat, and for VRChat's internal analytics to improve the user experience.
 
-While these actions and interactions are inherently derived from your physical movements and inputs detected by your VR hardware's sensors, the policy describes the *resulting gameplay information and usage statistics* rather than the raw sensor data itself.
+Additionally, VRChat collects voice data from your microphone when you use it within the platform. This serves to enable others to hear you and is also used for internal analytics to enhance the service.
+
+VRChat also automatically collects telemetry regarding your virtual world position, locomotion, and interactions with the platform and other users. This is used to understand usage patterns, improve functionality, and detect/prevent fraud or abuse.

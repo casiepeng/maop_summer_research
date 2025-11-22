@@ -1,0 +1,21 @@
+The Rendever Alcove Privacy Policy describes the collection of certain "Usage Information" and "Device and Technical Information" during the application's runtime, which includes data derived from the device's sensors to understand user interaction and movement.
+
+Specifically, the policy states:
+
+**Regarding "Usage Information":**
+The policy indicates that information is automatically collected about how the user interacts with the services, which includes details about their activities and interactions within the virtual environment. This directly relates to data typically gathered via sensors for tracking user input and movement.
+
+> "We automatically collect information about how you use our Services. This includes information about the features you use, the settings you select, your interactions with content and other users, and the duration and frequency of your activities. We also collect information about your interactions with the virtual environment, such as the objects you view and interact with, your movement within the virtual space, and your interactions with other avatars."
+
+**Regarding "Device and Technical Information":**
+The policy also collects information about the devices used to access the services. While not explicitly naming specific internal sensors (like accelerometers or gyroscopes), this category covers general device details that could relate to sensor capabilities or performance.
+
+> "We collect information about the devices and software you use to access our Services. This includes device type, operating system, hardware version, device settings, unique device identifiers, IP address, and browser type. We may also collect information about the performance of our Services and your device, such as crash logs and battery status."
+
+The information collected, particularly "your movement within the virtual space," "objects you view and interact with," and "your interactions with other avatars," is inherently derived from the tracking sensors (e.g., positional tracking, orientation, input controls) of the virtual reality headset and controllers while the application is running.
+
+**How the collected information is used:**
+This sensor-derived information is primarily used to operate, provide, maintain, and improve the services, as well as for safety and security purposes.
+
+> "To Provide and Improve Our Services: We use the information we collect to operate, provide, maintain, and improve our Services. This includes personalizing your experience, understanding how you use our Services, and developing new features and services."
+> "To Maintain Safety, Security, and Integrity: We use the information we collect to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Services, and promote safety and security on and off the Services."

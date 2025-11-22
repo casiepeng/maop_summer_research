@@ -25,20 +25,63 @@ import os
 # Reference to be used is the actual privacy policy. The generated responses (system) will be then compared!
 # ------------------------------------------------------------------------------------------------------------
 
-# initialize scorer, specifies the scores I want to use
+REFERENCE_FOLDER = r"privacy_policies"      # folder with actual policies
+SUMMARY_FOLDER   = r"gemini_policies_3"         # folder with LLM-produced summaries
+OUTPUT_PATH      = r"rouge_prompt3_results.txt"
+
+# initialize scorer
 scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
 
-# loop through each policy to examine and score
-for file in os.listdir("privacy_policies"):
-    # get the policy
-    file_path = os.path.join("privacy_policies", file_path)
-    #policy_name = 
-    with open(file_path, "r", encoding="utf-8") as f: 
-        reference = f.read()
+results = []
 
-    # get the reference summary (the LLM summary from the prompting)
+# -------------------------------------------------------
+# LOOP THROUGH EACH POLICY AND SCORE AGAINST MATCHING SUMMARY
+# -------------------------------------------------------
+for filename in os.listdir(REFERENCE_FOLDER):
 
-    # write the output into another folder
+    # Only process text files
+    if not filename.endswith(".txt"):
+        continue
 
+    reference_path = os.path.join(REFERENCE_FOLDER, filename)
+    summary_path   = os.path.join(SUMMARY_FOLDER, filename)
 
+    # skip if the summary doesn't exist
+    if not os.path.exists(summary_path):
+        results.append(f"Missing LLM summary for: {filename}\n{'-'*70}\n")
+        continue
 
+    # load reference policy
+    with open(reference_path, "r", encoding="utf-8") as f:
+        reference_text = f.read()
+
+    # load LLM summary
+    with open(summary_path, "r", encoding="utf-8") as f:
+        candidate_text = f.read()
+
+    # compute ROUGE
+    scores = scorer.score(reference_text, candidate_text)
+
+    result_block = (
+        f"FILE: {filename}\n"
+        f"ROUGE-1  →  Precision: {scores['rouge1'].precision:.4f}, "
+        f"Recall: {scores['rouge1'].recall:.4f}, "
+        f"F1: {scores['rouge1'].fmeasure:.4f}\n"
+        f"ROUGE-2  →  Precision: {scores['rouge2'].precision:.4f}, "
+        f"Recall: {scores['rouge2'].recall:.4f}, "
+        f"F1: {scores['rouge2'].fmeasure:.4f}\n"
+        f"ROUGE-L  →  Precision: {scores['rougeL'].precision:.4f}, "
+        f"Recall: {scores['rougeL'].recall:.4f}, "
+        f"F1: {scores['rougeL'].fmeasure:.4f}\n"
+        f"{'-'*70}\n"
+    )
+
+    results.append(result_block)
+
+# -------------------------------------------------------
+# WRITE RESULTS TO OUTPUT FILE
+# -------------------------------------------------------
+with open(OUTPUT_PATH, "w", encoding="utf-8") as out:
+    out.writelines(results)
+
+print("ROUGE scoring completed! Results saved to:", OUTPUT_PATH)

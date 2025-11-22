@@ -1,5 +1,10 @@
-I have reviewed the privacy policy provided at the link.
+The privacy policy details the collection of two main types of sensor-related information:
 
-The policy details information collected automatically from your device, such as your web browser, IP address, time zone, and cookies. It also collects data on the web pages you view, referral sources, and your interaction with the site.
+1.  **Location Information:**
+    *   Approximate location (country and city) is collected from your device, deduced from your IP address.
+    *   When you use the services, more precise location information may be collected using technologies such as GPS, Wi-Fi, or cellular data.
+    *   This data is used to provide you with location-based services and personalize your experience.
 
-However, after a thorough review, there are **no details or mentions** in this privacy policy regarding the collection of data from device sensors (e.g., GPS, accelerometer, gyroscope, etc.). The collected "device information" is limited to browser, IP, time zone, and cookie data, along with site usage patterns.
+2.  **Device Sensor Data:**
+    *   Specific device sensor data, such as from accelerometers, gyroscopes, and compasses, may be collected *if you grant permission*.
+    *   This data is collected to help understand your device's orientation and movement.

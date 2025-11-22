@@ -1,12 +1,6 @@
-Based on the privacy policy provided, here's a summary of details regarding sensors:
+The Aura Vision privacy policy details the collection of several types of sensor data from your device:
 
-The policy states that it collects **biometric information and health-related information** such as your heart rate, body temperature, ECG, EEG, blood pressure, SpO2 (blood oxygen saturation), sleep data, and step count. This data is obtained from your wearable devices or other connected devices, which rely on sensors.
-
-Additionally, the policy explicitly states it automatically collects **data from your device sensors**, including but not limited to:
-*   **Accelerometers**
-*   **Gyroscopes**
-*   **Heart rate monitors**
-*   **Temperature sensors**
-*   **SpO2 sensors**
-
-This automatically collected sensor data is used to capture details about your activity patterns, movement, and physiological responses.
+*   **Location Information:** Collected through GPS, Wi-Fi signals, cellular network information, and your device's IP address to enable location-based features, for analytics, and to improve services.
+*   **Camera and Microphone Information:** Includes images, videos, and audio captured by your device's camera and microphone while using their services. This also encompasses **3D depth information** and **spatial mapping data** (e.g., understanding your environment, room layouts, or object positions), which are crucial for augmented reality experiences.
+*   **Biometric Information:** If provided with your consent, data such as facial geometry, voiceprints, or other unique biological characteristics may be collected for authentication or personalized features. The policy states this information is not used for identification without your consent, nor is it sold.
+*   **Other Sensory Data:** Information from sensors like accelerometers, gyroscopes, and other motion or environmental sensors on your device is collected to understand movement, orientation, and environmental context.

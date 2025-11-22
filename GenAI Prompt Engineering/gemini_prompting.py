@@ -49,7 +49,11 @@ prompts = [
     "getting rid of key information and without adding additional information.",
     "Go to the link and extract the privacy policy without summarizing, without adding anything, and without " +
     " paraphrasing.",
-    "Go to the link and summarize the privacy policy without adding outside information or geting rid of key information."
+    "Go to the link and summarize the privacy policy without adding outside information or geting rid of key information.",
+    "Go to the link and summarize the privacy policy regarding sensors " +
+    "that are used to collect information during the application is running. Additionally, " +
+    "make sure that you quote from the privacy policy where the information is from. Do not " + 
+    "add information outside the policy. "
 ]
 
 
@@ -73,5 +77,6 @@ def prompt(prompt_index):
 
         #print(response.text)
 
-prompt_num = (int) (input("What prompt index (e.g. 0, 1, 2, 3, 4) do you want to extract?:\n "))
+prompt_num = (int) (input("Prompts 0-2 deal with sensor specifics and 3 & 4 focus on overall summary. 5 is another one focused on sensors." +
+                            "\n What prompt index (e.g. 0, 1, 2, 3, 4, 5) do you want to extract?: "))
 prompt(prompt_num)

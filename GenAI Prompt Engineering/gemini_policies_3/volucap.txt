@@ -1,10 +1,6 @@
-Based on the privacy policy for Voluverse, here's a summary of details regarding sensors:
+The Voluverse privacy policy indicates the collection of several types of data directly or indirectly derived from sensors, primarily for tracking user interactions and environment:
 
-The Voluverse app utilizes sensors, primarily in connection with its "Body Scan" feature and for interactive elements within the experience.
-
-1.  **Body Scan:** This feature specifically uses **depth sensors (such as Lidar) and cameras** to capture and process data. This sensor data is used to create 3D models of your body, including your body dimensions, shape, and facial features. The data derived from the Body Scan, particularly facial features, is considered biometric data.
-
-2.  **Other Sensory Inputs:** The policy also indicates the collection of data from other user interactions based on sensory input, including:
-    *   **Voice data** (implying the use of a microphone).
-    *   **Eye movements** (implying eye-tracking technology).
-    *   **Body motion and hand gestures** (implying motion tracking technology).
+*   **Tracking data:** Information related to physical movements and interactions within the Voluverse, including head movements, hand movements, and controller inputs.
+*   **Spatial data:** Information related to the physical environment, such as the location of objects and surfaces within your VR space.
+*   **Biometric data:** If users choose to enable certain features, this may include eye-tracking or facial expression data to enhance the experience.
+*   **Voice data:** If users choose to use the voice chat function, voice data may be collected to enable communication with other users.

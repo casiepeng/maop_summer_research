@@ -1,0 +1,7 @@
+The Immerse Learn Privacy Policy does not explicitly mention the use of "sensors" to collect information while the application is running. However, it does detail the collection of "Device Information" which can be gathered during usage.
+
+Under the "What information we collect" section, it states:
+
+> **Device Information:** When you use our Services, we may collect information about your mobile device, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+
+This section broadly covers device-specific information but does not specify "sensors" or their output as a data collection method. The policy does not contain any other direct references to sensors or their data being collected during application runtime.

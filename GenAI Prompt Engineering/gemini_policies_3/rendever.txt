@@ -1,8 +1,7 @@
-Based on the Rendever Alcove privacy policy:
+The Rendever Alcove privacy policy details the collection of "VR and AR Device Sensor Data" from headsets and controllers. Specifically, this includes:
 
-The policy states that they collect "VR headset data" as part of the "Device Information" category. This specifically includes **sensor data related to your head movement and gaze direction**.
-
-This sensor data is used to:
-*   Operate, maintain, and improve the service.
-*   Personalize your experience.
-*   Understand how you use the service and perform analytics.
+*   **Movement and Positional Data:** Information about the position, orientation, and movement of your headset and controllers in 3D space, collected from sensors such as accelerometers, gyroscopes, and magnetometers.
+*   **Hand and Eye Tracking Data:** If you enable it, data related to the position and movement of your hands and eyes within the VR/AR environment, used for features like hand gestures and gaze interaction.
+*   **Audio Data:** Input from your device's microphone if you enable voice commands or participate in voice chat features.
+*   **Spatial Mapping Data:** Information about your physical environment collected by the device's sensors (e.g., depth sensors, cameras) to create a map of your play space for environmental understanding and collision detection.
+*   **Limited Biometric Information:** Only collected with your explicit consent, such as certain hand geometry data for avatar representation or eye-tracking data for accessibility features. This is not considered personally identifiable biometric data and is used solely for improving interaction with the VR/AR environment.

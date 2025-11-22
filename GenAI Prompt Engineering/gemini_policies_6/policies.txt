@@ -1,0 +1,37 @@
+Google's Privacy Policy describes how information, including that from sensors, is collected when you use their services, which can include applications.
+
+The policy states that Google collects:
+
+*   **"device-specific identifiers"**: This can relate to various device characteristics.
+*   **"sensor data"**: This is explicitly mentioned as a type of information collected.
+
+Specifically, under the section "Information Google collects," the policy details:
+
+"We collect information about the apps, browsers, and devices you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
+The information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.
+We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates. If you're using an Android device with Google apps, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your device type and carrier name, crash reports, and which apps you've installed.
+
+We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
+*   Terms you search for
+*   Videos you watch
+*   Views and interactions with content and ads
+*   Voice and audio information
+*   Purchase activity
+*   People with whom you communicate or share content
+*   Activity on third-party sites and apps that use our services
+*   Chrome browsing history you’ve synced with your Google Account
+
+If you use our services to make and receive calls or send and receive messages, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, time and date of calls and messages, duration of calls, routing information, and types of calls.
+
+You can visit your Google Account to find and manage activity information that’s saved in your account.
+
+We collect information about your location when you use our services, which helps us offer features like driving directions, and search results for things near you.
+Depending on the products you use, Google may collect different types of information about your location.
+*   **Precise location:** We collect precise location data (like GPS, Wi-Fi, and cell tower data) when you use Google services, such as when you use Google Maps to get directions, or when you use Google Search with location-related settings enabled.
+*   **Rough location:** We collect rough location data (like from IP addresses or device sensor data) when you use Google services, such as when you use Google Search with location-related settings enabled.
+*   **Activity on devices and apps:** We may collect information about your activity on devices and apps that use our services, such as when you use Google Search to find local information.
+*   **Sensor data:** We collect data from your device’s sensors (like accelerometer and gyroscope) to understand movements and activity, such as to provide features like fitness tracking or to detect car crashes."
+
+In summary, regarding sensors used to collect information during an application is running:
+
+Google explicitly states that it collects **"sensor data"** from devices. This includes data from **"accelerometer and gyroscope"** to understand movements and activity, enabling features like **"fitness tracking or to detect car crashes."** Furthermore, **"device sensor data"** is also used to collect **"rough location data."** This collection occurs when a Google service on your device contacts their servers, for example, when using Google apps on an Android device, or when an app uses Google services.

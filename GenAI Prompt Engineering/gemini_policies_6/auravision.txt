@@ -1,0 +1,11 @@
+Based on the privacy policy available at https://auravision.xyz/privacy-policy, the only sensor-related information explicitly mentioned as being collected during the application's runtime is Location Data.
+
+The policy states:
+
+"We may use and store information about your location if you give us permission to do so ("Location Data"). We use this data to provide features of our Service, to improve and customize our Service."
+
+It further explains user control over this:
+
+"You can enable or disable location services when you use our Service at any time, through your device settings."
+
+The policy does not explicitly mention the collection of data from other specific sensors such as accelerometers, gyroscopes, cameras, microphones, or biometric sensors during the application's operation. While "Device Information" is collected (including "hardware model, operating system, unique device identifiers, and mobile network information"), this section describes characteristics of the device itself rather than data actively streamed from its sensors, with the exception of the separately specified "Location Data."

@@ -1,7 +1,10 @@
-Based on the Immersed.com privacy policy, here are the details regarding sensor data collection:
+Immersed collects various sensor data directly from your VR/AR/XR headset and controllers. This includes:
 
-When using Immersed VR software and hardware, the company may collect:
+*   **Head and Controller Position and Orientation Data:** Used to track your movements within the virtual environment.
+*   **Eye-tracking Data:** If enabled on your device.
+*   **Hand-tracking Data:** If enabled on your device.
+*   **Microphone Data:** Utilized for features such as voice commands, spatial audio, and communication.
+*   **Camera Data:** Used for features like passthrough, spatial anchors, and environmental understanding.
+*   **Other Sensor Data:** This can include data from ambient light sensors, proximity sensors, and haptic feedback data.
 
-*   **Tracking data:** This includes data related to your head and hand movements, eye gaze, and body posture within the VR environment. This data is used to provide and improve the VR experience, such as enabling interactions with virtual objects and tracking your progress.
-*   **Audio data:** With your permission, audio data may be collected through your device's microphone for features like voice commands and communication within the VR environment.
-*   **Biometric data:** If you enable certain features, eye-tracking data may be collected. This data is used for purposes like foveated rendering (optimizing visual quality) or user authentication. This biometric data is processed on-device whenever possible and is not shared with third parties unless you explicitly consent for a specific purpose (e.g., sharing a facial avatar with other users).
+Most of this data is processed locally on your device to enable core functionalities like tracking your movements. However, some of this data may be transmitted to Immersed's servers for specific features (e.g., voice chat, cloud-based spatial anchors) or for analytics purposes.

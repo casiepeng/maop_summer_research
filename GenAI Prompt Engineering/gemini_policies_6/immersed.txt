@@ -1,0 +1,7 @@
+Based on the Immerse privacy policy, the application may collect the following sensor-derived information during its operation:
+
+Immerse states under the section **"Information we collect automatically"** and subsection **"Sensory Information"**:
+
+*   **Voice Data**: Depending on device permissions, "we may collect **voice data** when you use our voice chat functionality or otherwise interact with us using voice."
+*   **Tracking Information**: The policy indicates collection of various tracking data: "We may also collect **eye-tracking information**, **hand-tracking information**, and **head position and orientation information** when you use our Services."
+*   **Face Data (Public Beta)**: For users participating in the public beta, "we may collect **face data** for expression capture functionality." Importantly, this data is handled differently: "This data is **processed on-device and is not stored or shared** with Immerse."

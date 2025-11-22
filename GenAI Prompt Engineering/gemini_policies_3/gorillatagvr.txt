@@ -1,1 +1,6 @@
-The Gorilla Tag VR privacy policy states that when you use their services, they automatically collect information related to sensors from your VR headset and controllers. This includes the precise position and orientation of your headset and controllers, and your movement within the virtual environment. This data is collected to provide and improve the functionality of the game and services, and to offer a better and more immersive gameplay experience.
+The privacy policy for Gorilla Tag VR states that it collects **VR Device Information** as part of its "User Information." This includes **tracking data** and **motion data** from your VR headset and controllers.
+
+This data is used to:
+*   Provide and maintain the game services, including personalizing your experience.
+*   Improve services and develop new features.
+*   Analyze usage and trends.

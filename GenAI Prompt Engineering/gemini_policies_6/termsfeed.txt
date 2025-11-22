@@ -1,0 +1,7 @@
+Based on the privacy policy provided at the link `https://www.termsfeed.com/live/449e0122-ca8a-49b1-88dd-e4dc09a36838`, there is no explicit mention or detailed description of the use of device sensors (such as GPS, accelerometers, gyroscopes, cameras, or microphones) to collect information while the application is running.
+
+The policy outlines the collection of "Usage Data" which is described as being collected automatically when using the Service. This "Usage Data" includes:
+
+"Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data."
+
+The terms "unique device identifiers and other diagnostic data" are general and do not specify the collection of information directly from physical sensors on the device. The policy does not provide further details on what specific "diagnostic data" entails or if it involves sensor outputs. Therefore, the privacy policy does not detail the use of sensors to collect information during the application's runtime.
