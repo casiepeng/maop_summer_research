@@ -1,0 +1,50 @@
+FILE: appasset.txt
+ROUGE-1  →  Precision: 0.5865, Recall: 0.7365, F1: 0.6530
+ROUGE-2  →  Precision: 0.2428, Recall: 0.3050, F1: 0.2704
+ROUGE-L  →  Precision: 0.2201, Recall: 0.2764, F1: 0.2451
+----------------------------------------------------------------------
+FILE: auravision.txt
+ROUGE-1  →  Precision: 0.5320, Recall: 0.4384, F1: 0.4807
+ROUGE-2  →  Precision: 0.1729, Recall: 0.1424, F1: 0.1562
+ROUGE-L  →  Precision: 0.2367, Recall: 0.1950, F1: 0.2138
+----------------------------------------------------------------------
+FILE: gorillatagvr.txt
+ROUGE-1  →  Precision: 0.8384, Recall: 0.3286, F1: 0.4722
+ROUGE-2  →  Precision: 0.3519, Recall: 0.1379, F1: 0.1982
+ROUGE-L  →  Precision: 0.2925, Recall: 0.1146, F1: 0.1647
+----------------------------------------------------------------------
+FILE: hello.txt
+ROUGE-1  →  Precision: 0.8803, Recall: 0.3789, F1: 0.5297
+ROUGE-2  →  Precision: 0.4235, Recall: 0.1822, F1: 0.2548
+ROUGE-L  →  Precision: 0.3399, Recall: 0.1463, F1: 0.2045
+----------------------------------------------------------------------
+FILE: immersed.txt
+ROUGE-1  →  Precision: 0.3647, Recall: 0.7052, F1: 0.4808
+ROUGE-2  →  Precision: 0.1166, Recall: 0.2255, F1: 0.1537
+ROUGE-L  →  Precision: 0.1293, Recall: 0.2500, F1: 0.1704
+----------------------------------------------------------------------
+FILE: immerselearn.txt
+ROUGE-1  →  Precision: 0.4102, Recall: 0.7911, F1: 0.5402
+ROUGE-2  →  Precision: 0.2044, Recall: 0.3946, F1: 0.2693
+ROUGE-L  →  Precision: 0.2338, Recall: 0.4509, F1: 0.3079
+----------------------------------------------------------------------
+FILE: policies.txt
+ROUGE-1  →  Precision: 0.9781, Recall: 0.5175, F1: 0.6769
+ROUGE-2  →  Precision: 0.8653, Recall: 0.4577, F1: 0.5987
+ROUGE-L  →  Precision: 0.8431, Recall: 0.4461, F1: 0.5834
+----------------------------------------------------------------------
+FILE: rendever.txt
+ROUGE-1  →  Precision: 0.8899, Recall: 0.1495, F1: 0.2561
+ROUGE-2  →  Precision: 0.4396, Recall: 0.0738, F1: 0.1264
+ROUGE-L  →  Precision: 0.4754, Recall: 0.0799, F1: 0.1368
+----------------------------------------------------------------------
+FILE: termsfeed.txt
+ROUGE-1  →  Precision: 0.9421, Recall: 0.9859, F1: 0.9635
+ROUGE-2  →  Precision: 0.9348, Recall: 0.9783, F1: 0.9561
+ROUGE-L  →  Precision: 0.9378, Recall: 0.9813, F1: 0.9591
+----------------------------------------------------------------------
+FILE: volucap.txt
+ROUGE-1  →  Precision: 0.8153, Recall: 0.3950, F1: 0.5321
+ROUGE-2  →  Precision: 0.3658, Recall: 0.1772, F1: 0.2387
+ROUGE-L  →  Precision: 0.2775, Recall: 0.1344, F1: 0.1811
+----------------------------------------------------------------------

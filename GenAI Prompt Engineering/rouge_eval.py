@@ -26,8 +26,8 @@ import os
 # ------------------------------------------------------------------------------------------------------------
 
 REFERENCE_FOLDER = r"privacy_policies"      # folder with actual policies
-SUMMARY_FOLDER   = r"gemini_policies_3"         # folder with LLM-produced summaries
-OUTPUT_PATH      = r"rouge_prompt3_results.txt"
+SUMMARY_FOLDER   = r"gemini_policies_4"         # folder with LLM-produced summaries
+OUTPUT_PATH      = r"rouge_prompt4_results.txt"
 
 # initialize scorer
 scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
