@@ -1,3 +1,6 @@
+TODO: Extract only sensor information, delete information NOT 
+Related to sensors. (haven't done yet)
+
 Privacy Policy
 Effective: January 31, 2024
 Last Modified: February 19, 2024

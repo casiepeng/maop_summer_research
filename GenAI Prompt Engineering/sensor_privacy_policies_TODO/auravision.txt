@@ -1,3 +1,6 @@
+TODO: Extract only sensor information, delete information NOT 
+Related to sensors. (haven't done yet)
+
 Privacy Policy
 Aura Vision LLC, a Wyoming LLC ("Aura Vision", "we," "us," "our," and their derivatives) provides Lab Monkey™, Fros™, Scary Baboon™, Bwah™, Steal a Monke™, and other video games, including any play test program (collectively, our "Games", or "Applications").
 

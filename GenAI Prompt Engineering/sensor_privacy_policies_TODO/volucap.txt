@@ -1,3 +1,6 @@
+TODO: Extract only sensor information, delete information NOT 
+Related to sensors. (haven't done yet)
+
 Developer Data Use Policy for Voluverse App
 Effective Date: 02.04.2025
 

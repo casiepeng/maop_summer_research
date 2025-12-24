@@ -64,13 +64,13 @@ for filename in os.listdir(REFERENCE_FOLDER):
 
     result_block = (
         f"FILE: {filename}\n"
-        f"ROUGE-1  →  Precision: {scores['rouge1'].precision:.4f}, "
+        f"ROUGE-1  -  Precision: {scores['rouge1'].precision:.4f}, "
         f"Recall: {scores['rouge1'].recall:.4f}, "
         f"F1: {scores['rouge1'].fmeasure:.4f}\n"
-        f"ROUGE-2  →  Precision: {scores['rouge2'].precision:.4f}, "
+        f"ROUGE-2  -  Precision: {scores['rouge2'].precision:.4f}, "
         f"Recall: {scores['rouge2'].recall:.4f}, "
         f"F1: {scores['rouge2'].fmeasure:.4f}\n"
-        f"ROUGE-L  →  Precision: {scores['rougeL'].precision:.4f}, "
+        f"ROUGE-L  -  Precision: {scores['rougeL'].precision:.4f}, "
         f"Recall: {scores['rougeL'].recall:.4f}, "
         f"F1: {scores['rougeL'].fmeasure:.4f}\n"
         f"{'-'*70}\n"

@@ -1,3 +1,6 @@
+TODO: Extract only sensor information, delete information NOT 
+Related to sensors. (haven't done yet)
+
 Privacy Policy
 Last Updated: September 29, 2025
 This Privacy Policy (“Policy”) describes how Immersed Inc. and its related companies (“Immersed,” “Company,” “we,” “our,” or “us”) collect, use, and share personal information of consumer users of this website, https://immersed.com (the “Site”), our investment portal https://invest.immersed.com, and any of our other websites or applications that post this Policy (together, the “Services”).
